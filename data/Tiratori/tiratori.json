@@ -1,0 +1,262 @@
+[
+    {
+        "squadra": "Atalanta",
+        "rigoristi": {
+            "1_rigorista": "Scamacca",
+            "2_rigorista": "Krstovic",
+            "3_rigorista": "Samardzic"
+        },
+        "piazzati_e_angoli": {
+            "1_tiratore": "De Ketelaere",
+            "2_tiratore": "Samardzic",
+            "3_tiratore": "Gaetano"
+        }
+    },
+    {
+        "squadra": "Bologna",
+        "rigoristi": {
+            "1_rigorista": "Orsolini",
+            "2_rigorista": "Bernardeschi",
+            "3_rigorista": "Dovbyk"
+        },
+        "piazzati_e_angoli": {
+            "1_tiratore": "Orsolini",
+            "2_tiratore": "Bernardeschi",
+            "3_tiratore": "Miranda J."
+        }
+    },
+    {
+        "squadra": "Cagliari",
+        "rigoristi": {
+            "1_rigorista": "Maldini",
+            "2_rigorista": "Mina",
+            "3_rigorista": "Fazzini"
+        },
+        "piazzati_e_angoli": {
+            "1_tiratore": "Fazzini",
+            "2_tiratore": "Maldini",
+            "3_tiratore": "Winks"
+        }
+    },
+    {
+        "squadra": "Como",
+        "rigoristi": {
+            "1_rigorista": "Da Cunha",
+            "2_rigorista": "Douvikas",
+            "3_rigorista": "Paz N."
+        },
+        "piazzati_e_angoli": {
+            "1_tiratore": "Paz N.",
+            "2_tiratore": "Baturina",
+            "3_tiratore": "Da Cunha"
+        }
+    },
+    {
+        "squadra": "Fiorentina",
+        "rigoristi": {
+            "1_rigorista": "Gudmundsson A.",
+            "2_rigorista": "Kean",
+            "3_rigorista": "Mandragora"
+        },
+        "piazzati_e_angoli": {
+            "1_tiratore": "Gudmundsson A.",
+            "2_tiratore": "Mastantuono",
+            "3_tiratore": "Atta"
+        }
+    },
+    {
+        "squadra": "Frosinone",
+        "rigoristi": {
+            "1_rigorista": "Calò",
+            "2_rigorista": "Raimondo",
+            "3_rigorista": "Ghedjemis"
+        },
+        "piazzati_e_angoli": {
+            "1_tiratore": "Calò",
+            "2_tiratore": "Ghedjemis",
+            "3_tiratore": "Zerbin"
+        }
+    },
+    {
+        "squadra": "Genoa",
+        "rigoristi": {
+            "1_rigorista": "Colombo",
+            "2_rigorista": "Ostigard",
+            "3_rigorista": "Vitinha O."
+        },
+        "piazzati_e_angoli": {
+            "1_tiratore": "Baldanzi",
+            "2_tiratore": "Martin",
+            "3_tiratore": "Vitinha O."
+        }
+    },
+    {
+        "squadra": "Inter",
+        "rigoristi": {
+            "1_rigorista": "Calhanoglu",
+            "2_rigorista": "Zielinski",
+            "3_rigorista": "Martinez L."
+        },
+        "piazzati_e_angoli": {
+            "1_tiratore": "Calhanoglu",
+            "2_tiratore": "Dimarco",
+            "3_tiratore": "Zielinski"
+        }
+    },
+    {
+        "squadra": "Juventus",
+        "rigoristi": {
+            "1_rigorista": "Kolo Muani",
+            "2_rigorista": "Yildiz",
+            "3_rigorista": "Locatelli"
+        },
+        "piazzati_e_angoli": {
+            "1_tiratore": "Yildiz",
+            "2_tiratore": "Locatelli",
+            "3_tiratore": "Cambiaso"
+        }
+    },
+    {
+        "squadra": "Lazio",
+        "rigoristi": {
+            "1_rigorista": "Zaccagni",
+            "2_rigorista": "Taylor K.",
+            "3_rigorista": "Cataldi"
+        },
+        "piazzati_e_angoli": {
+            "1_tiratore": "Rovella",
+            "2_tiratore": "Zaccagni",
+            "3_tiratore": "Cataldi"
+        }
+    },
+    {
+        "squadra": "Lecce",
+        "rigoristi": {
+            "1_rigorista": "Geubbels",
+            "2_rigorista": "Stulic",
+            "3_rigorista": "Berisha M."
+        },
+        "piazzati_e_angoli": {
+            "1_tiratore": "Pierotti",
+            "2_tiratore": "Berisha M.",
+            "3_tiratore": "Gandelman"
+        }
+    },
+    {
+        "squadra": "Milan",
+        "rigoristi": {
+            "1_rigorista": "Nkunku",
+            "2_rigorista": "Ramos G.",
+            "3_rigorista": "Pulisic"
+        },
+        "piazzati_e_angoli": {
+            "1_tiratore": "Modric",
+            "2_tiratore": "Pulisic",
+            "3_tiratore": "Saelemaekers"
+        }
+    },
+    {
+        "squadra": "Monza",
+        "rigoristi": {
+            "1_rigorista": "Pessina",
+            "2_rigorista": "Cutrone",
+            "3_rigorista": "Petagna"
+        },
+        "piazzati_e_angoli": {
+            "1_tiratore": "Pessina",
+            "2_tiratore": "Colpani",
+            "3_tiratore": "Mota"
+        }
+    },
+    {
+        "squadra": "Napoli",
+        "rigoristi": {
+            "1_rigorista": "De Bruyne",
+            "2_rigorista": "Hojlund",
+            "3_rigorista": "Politano"
+        },
+        "piazzati_e_angoli": {
+            "1_tiratore": "De Bruyne",
+            "2_tiratore": "Politano",
+            "3_tiratore": "Neres"
+        }
+    },
+    {
+        "squadra": "Parma",
+        "rigoristi": {
+            "1_rigorista": "Pellegrino M.",
+            "2_rigorista": "Tourè E.",
+            "3_rigorista": "Valeri"
+        },
+        "piazzati_e_angoli": {
+            "1_tiratore": "Bernabè",
+            "2_tiratore": "Nicolussi Caviglia",
+            "3_tiratore": "Valeri"
+        }
+    },
+    {
+        "squadra": "Roma",
+        "rigoristi": {
+            "1_rigorista": "Malen",
+            "2_rigorista": "Dybala",
+            "3_rigorista": "Castro S."
+        },
+        "piazzati_e_angoli": {
+            "1_tiratore": "Dybala",
+            "2_tiratore": "Malen",
+            "3_tiratore": "Soulè"
+        }
+    },
+    {
+        "squadra": "Sassuolo",
+        "rigoristi": {
+            "1_rigorista": "Berardi",
+            "2_rigorista": "Pinamonti",
+            "3_rigorista": "Laurientè"
+        },
+        "piazzati_e_angoli": {
+            "1_tiratore": "Berardi",
+            "2_tiratore": "Laurientè",
+            "3_tiratore": "Adzic"
+        }
+    },
+    {
+        "squadra": "Torino",
+        "rigoristi": {
+            "1_rigorista": "Vlasic",
+            "2_rigorista": "Kulenovic",
+            "3_rigorista": "Simeone"
+        },
+        "piazzati_e_angoli": {
+            "1_tiratore": "Vlasic",
+            "2_tiratore": "Oristanio",
+            "3_tiratore": "Gineitis"
+        }
+    },
+    {
+        "squadra": "Udinese",
+        "rigoristi": {
+            "1_rigorista": "Davis K.",
+            "2_rigorista": "Solet",
+            "3_rigorista": "Zaniolo"
+        },
+        "piazzati_e_angoli": {
+            "1_tiratore": "Zaniolo",
+            "2_tiratore": "Ekkelenkamp",
+            "3_tiratore": "Unai Gomez"
+        }
+    },
+    {
+        "squadra": "Venezia",
+        "rigoristi": {
+            "1_rigorista": "Adams A.",
+            "2_rigorista": "Rrahmani Al.",
+            "3_rigorista": "Adorante"
+        },
+        "piazzati_e_angoli": {
+            "1_tiratore": "Busio",
+            "2_tiratore": "Yeboah J.",
+            "3_tiratore": "Perez K."
+        }
+    }
+]

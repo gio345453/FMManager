@@ -1,0 +1,15 @@
+# Script output files
+output/
+*.backup.*
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Test files
+test_output/
+
+# Logs
+*.log
