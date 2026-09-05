@@ -13,6 +13,7 @@ import shutil
 import tempfile
 import subprocess
 import asyncio
+import numpy as np
 
 # Aggiungi root al path per import
 root_path = Path(__file__).parent.parent.parent
@@ -106,6 +107,19 @@ class AppState:
         # which will reload the data via DataManager
 
 app_state = AppState()
+
+
+def _json_safe(value):
+    """Converte i tipi NumPy/Pandas in tipi Python serializzabili da FastAPI."""
+    if isinstance(value, dict):
+        return {str(k): _json_safe(v) for k, v in value.items()}
+    if isinstance(value, (list, tuple)):
+        return [_json_safe(v) for v in value]
+    if isinstance(value, np.ndarray):
+        return [_json_safe(v) for v in value.tolist()]
+    if isinstance(value, np.generic):
+        return value.item()
+    return value
 
 
 def get_auction_service() -> AuctionService:
@@ -479,7 +493,7 @@ async def compare_players(
             budget=budget
         )
 
-        return result
+        return _json_safe(result)
 
     except ValueError as e:
         raise HTTPException(status_code=400, detail=str(e))
