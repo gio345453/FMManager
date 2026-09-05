@@ -1,0 +1,11 @@
+# Dipendenze base del progetto FMManager
+pandas>=2.0.0
+matplotlib>=3.7.0
+
+# Dipendenze backend web
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+pydantic>=2.5.0
+python-multipart>=0.0.6
+google-genai>=1.0.0
+python-dotenv>=1.0.0

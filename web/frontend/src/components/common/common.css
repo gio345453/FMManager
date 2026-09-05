@@ -1,0 +1,22 @@
+.fm-table thead {
+  background: rgba(15, 23, 42, 0.75);
+}
+
+.fm-table th,
+.fm-table td {
+  border-bottom: 1px solid hsl(var(--border));
+  padding: 0.875rem 1rem;
+  text-align: left;
+}
+
+.fm-table th {
+  color: hsl(var(--muted-foreground));
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.fm-table tbody tr:last-child td {
+  border-bottom: 0;
+}

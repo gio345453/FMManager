@@ -1,0 +1,867 @@
+{
+  "teams": [
+    "APEROL WIRTZ",
+    "AS Cibrone",
+    "Al-Asnai",
+    "Chemio  Verona",
+    "HeineKean",
+    "Herta Vernello",
+    "IPSWICH DOWN FC",
+    "PERCHÈ ALWAYS ME",
+    "Pietralata",
+    "Thoffeineim"
+  ],
+  "matchdays": [
+    {
+      "matchday": 1,
+      "fixtures": [
+        {
+          "home": "Al-Asnai",
+          "away": "Pietralata"
+        },
+        {
+          "home": "IPSWICH DOWN FC",
+          "away": "Herta Vernello"
+        },
+        {
+          "home": "APEROL WIRTZ",
+          "away": "Thoffeineim"
+        },
+        {
+          "home": "PERCHÈ ALWAYS ME",
+          "away": "HeineKean"
+        },
+        {
+          "home": "AS Cibrone",
+          "away": "Chemio  Verona"
+        }
+      ]
+    },
+    {
+      "matchday": 2,
+      "fixtures": [
+        {
+          "home": "Herta Vernello",
+          "away": "Al-Asnai"
+        },
+        {
+          "home": "HeineKean",
+          "away": "AS Cibrone"
+        },
+        {
+          "home": "Thoffeineim",
+          "away": "PERCHÈ ALWAYS ME"
+        },
+        {
+          "home": "Pietralata",
+          "away": "APEROL WIRTZ"
+        },
+        {
+          "home": "Chemio  Verona",
+          "away": "IPSWICH DOWN FC"
+        }
+      ]
+    },
+    {
+      "matchday": 3,
+      "fixtures": [
+        {
+          "home": "Al-Asnai",
+          "away": "Chemio  Verona"
+        },
+        {
+          "home": "IPSWICH DOWN FC",
+          "away": "HeineKean"
+        },
+        {
+          "home": "APEROL WIRTZ",
+          "away": "Herta Vernello"
+        },
+        {
+          "home": "Pietralata",
+          "away": "Thoffeineim"
+        },
+        {
+          "home": "AS Cibrone",
+          "away": "PERCHÈ ALWAYS ME"
+        }
+      ]
+    },
+    {
+      "matchday": 4,
+      "fixtures": [
+        {
+          "home": "Herta Vernello",
+          "away": "Pietralata"
+        },
+        {
+          "home": "PERCHÈ ALWAYS ME",
+          "away": "IPSWICH DOWN FC"
+        },
+        {
+          "home": "HeineKean",
+          "away": "Al-Asnai"
+        },
+        {
+          "home": "Thoffeineim",
+          "away": "AS Cibrone"
+        },
+        {
+          "home": "Chemio  Verona",
+          "away": "APEROL WIRTZ"
+        }
+      ]
+    },
+    {
+      "matchday": 5,
+      "fixtures": [
+        {
+          "home": "Al-Asnai",
+          "away": "PERCHÈ ALWAYS ME"
+        },
+        {
+          "home": "IPSWICH DOWN FC",
+          "away": "AS Cibrone"
+        },
+        {
+          "home": "Herta Vernello",
+          "away": "Thoffeineim"
+        },
+        {
+          "home": "APEROL WIRTZ",
+          "away": "HeineKean"
+        },
+        {
+          "home": "Pietralata",
+          "away": "Chemio  Verona"
+        }
+      ]
+    },
+    {
+      "matchday": 6,
+      "fixtures": [
+        {
+          "home": "PERCHÈ ALWAYS ME",
+          "away": "APEROL WIRTZ"
+        },
+        {
+          "home": "HeineKean",
+          "away": "Pietralata"
+        },
+        {
+          "home": "Thoffeineim",
+          "away": "IPSWICH DOWN FC"
+        },
+        {
+          "home": "Chemio  Verona",
+          "away": "Herta Vernello"
+        },
+        {
+          "home": "AS Cibrone",
+          "away": "Al-Asnai"
+        }
+      ]
+    },
+    {
+      "matchday": 7,
+      "fixtures": [
+        {
+          "home": "Al-Asnai",
+          "away": "IPSWICH DOWN FC"
+        },
+        {
+          "home": "Herta Vernello",
+          "away": "HeineKean"
+        },
+        {
+          "home": "APEROL WIRTZ",
+          "away": "AS Cibrone"
+        },
+        {
+          "home": "Pietralata",
+          "away": "PERCHÈ ALWAYS ME"
+        },
+        {
+          "home": "Chemio  Verona",
+          "away": "Thoffeineim"
+        }
+      ]
+    },
+    {
+      "matchday": 8,
+      "fixtures": [
+        {
+          "home": "Al-Asnai",
+          "away": "Thoffeineim"
+        },
+        {
+          "home": "IPSWICH DOWN FC",
+          "away": "APEROL WIRTZ"
+        },
+        {
+          "home": "PERCHÈ ALWAYS ME",
+          "away": "Herta Vernello"
+        },
+        {
+          "home": "HeineKean",
+          "away": "Chemio  Verona"
+        },
+        {
+          "home": "AS Cibrone",
+          "away": "Pietralata"
+        }
+      ]
+    },
+    {
+      "matchday": 9,
+      "fixtures": [
+        {
+          "home": "Herta Vernello",
+          "away": "AS Cibrone"
+        },
+        {
+          "home": "APEROL WIRTZ",
+          "away": "Al-Asnai"
+        },
+        {
+          "home": "Thoffeineim",
+          "away": "HeineKean"
+        },
+        {
+          "home": "Pietralata",
+          "away": "IPSWICH DOWN FC"
+        },
+        {
+          "home": "Chemio  Verona",
+          "away": "PERCHÈ ALWAYS ME"
+        }
+      ]
+    },
+    {
+      "matchday": 10,
+      "fixtures": [
+        {
+          "home": "Pietralata",
+          "away": "Al-Asnai"
+        },
+        {
+          "home": "Herta Vernello",
+          "away": "IPSWICH DOWN FC"
+        },
+        {
+          "home": "Thoffeineim",
+          "away": "APEROL WIRTZ"
+        },
+        {
+          "home": "HeineKean",
+          "away": "PERCHÈ ALWAYS ME"
+        },
+        {
+          "home": "Chemio  Verona",
+          "away": "AS Cibrone"
+        }
+      ]
+    },
+    {
+      "matchday": 11,
+      "fixtures": [
+        {
+          "home": "Al-Asnai",
+          "away": "Herta Vernello"
+        },
+        {
+          "home": "AS Cibrone",
+          "away": "HeineKean"
+        },
+        {
+          "home": "PERCHÈ ALWAYS ME",
+          "away": "Thoffeineim"
+        },
+        {
+          "home": "APEROL WIRTZ",
+          "away": "Pietralata"
+        },
+        {
+          "home": "IPSWICH DOWN FC",
+          "away": "Chemio  Verona"
+        }
+      ]
+    },
+    {
+      "matchday": 12,
+      "fixtures": [
+        {
+          "home": "Chemio  Verona",
+          "away": "Al-Asnai"
+        },
+        {
+          "home": "HeineKean",
+          "away": "IPSWICH DOWN FC"
+        },
+        {
+          "home": "Herta Vernello",
+          "away": "APEROL WIRTZ"
+        },
+        {
+          "home": "Thoffeineim",
+          "away": "Pietralata"
+        },
+        {
+          "home": "PERCHÈ ALWAYS ME",
+          "away": "AS Cibrone"
+        }
+      ]
+    },
+    {
+      "matchday": 13,
+      "fixtures": [
+        {
+          "home": "Pietralata",
+          "away": "Herta Vernello"
+        },
+        {
+          "home": "IPSWICH DOWN FC",
+          "away": "PERCHÈ ALWAYS ME"
+        },
+        {
+          "home": "Al-Asnai",
+          "away": "HeineKean"
+        },
+        {
+          "home": "AS Cibrone",
+          "away": "Thoffeineim"
+        },
+        {
+          "home": "APEROL WIRTZ",
+          "away": "Chemio  Verona"
+        }
+      ]
+    },
+    {
+      "matchday": 14,
+      "fixtures": [
+        {
+          "home": "PERCHÈ ALWAYS ME",
+          "away": "Al-Asnai"
+        },
+        {
+          "home": "AS Cibrone",
+          "away": "IPSWICH DOWN FC"
+        },
+        {
+          "home": "Thoffeineim",
+          "away": "Herta Vernello"
+        },
+        {
+          "home": "HeineKean",
+          "away": "APEROL WIRTZ"
+        },
+        {
+          "home": "Chemio  Verona",
+          "away": "Pietralata"
+        }
+      ]
+    },
+    {
+      "matchday": 15,
+      "fixtures": [
+        {
+          "home": "APEROL WIRTZ",
+          "away": "PERCHÈ ALWAYS ME"
+        },
+        {
+          "home": "Pietralata",
+          "away": "HeineKean"
+        },
+        {
+          "home": "IPSWICH DOWN FC",
+          "away": "Thoffeineim"
+        },
+        {
+          "home": "Herta Vernello",
+          "away": "Chemio  Verona"
+        },
+        {
+          "home": "Al-Asnai",
+          "away": "AS Cibrone"
+        }
+      ]
+    },
+    {
+      "matchday": 16,
+      "fixtures": [
+        {
+          "home": "IPSWICH DOWN FC",
+          "away": "Al-Asnai"
+        },
+        {
+          "home": "HeineKean",
+          "away": "Herta Vernello"
+        },
+        {
+          "home": "AS Cibrone",
+          "away": "APEROL WIRTZ"
+        },
+        {
+          "home": "PERCHÈ ALWAYS ME",
+          "away": "Pietralata"
+        },
+        {
+          "home": "Thoffeineim",
+          "away": "Chemio  Verona"
+        }
+      ]
+    },
+    {
+      "matchday": 17,
+      "fixtures": [
+        {
+          "home": "Thoffeineim",
+          "away": "Al-Asnai"
+        },
+        {
+          "home": "APEROL WIRTZ",
+          "away": "IPSWICH DOWN FC"
+        },
+        {
+          "home": "Herta Vernello",
+          "away": "PERCHÈ ALWAYS ME"
+        },
+        {
+          "home": "Chemio  Verona",
+          "away": "HeineKean"
+        },
+        {
+          "home": "Pietralata",
+          "away": "AS Cibrone"
+        }
+      ]
+    },
+    {
+      "matchday": 18,
+      "fixtures": [
+        {
+          "home": "AS Cibrone",
+          "away": "Herta Vernello"
+        },
+        {
+          "home": "Al-Asnai",
+          "away": "APEROL WIRTZ"
+        },
+        {
+          "home": "HeineKean",
+          "away": "Thoffeineim"
+        },
+        {
+          "home": "IPSWICH DOWN FC",
+          "away": "Pietralata"
+        },
+        {
+          "home": "PERCHÈ ALWAYS ME",
+          "away": "Chemio  Verona"
+        }
+      ]
+    },
+    {
+      "matchday": 19,
+      "fixtures": [
+        {
+          "home": "Al-Asnai",
+          "away": "Pietralata"
+        },
+        {
+          "home": "IPSWICH DOWN FC",
+          "away": "Herta Vernello"
+        },
+        {
+          "home": "APEROL WIRTZ",
+          "away": "Thoffeineim"
+        },
+        {
+          "home": "PERCHÈ ALWAYS ME",
+          "away": "HeineKean"
+        },
+        {
+          "home": "AS Cibrone",
+          "away": "Chemio  Verona"
+        }
+      ]
+    },
+    {
+      "matchday": 20,
+      "fixtures": [
+        {
+          "home": "Herta Vernello",
+          "away": "Al-Asnai"
+        },
+        {
+          "home": "HeineKean",
+          "away": "AS Cibrone"
+        },
+        {
+          "home": "Thoffeineim",
+          "away": "PERCHÈ ALWAYS ME"
+        },
+        {
+          "home": "Pietralata",
+          "away": "APEROL WIRTZ"
+        },
+        {
+          "home": "Chemio  Verona",
+          "away": "IPSWICH DOWN FC"
+        }
+      ]
+    },
+    {
+      "matchday": 21,
+      "fixtures": [
+        {
+          "home": "Al-Asnai",
+          "away": "Chemio  Verona"
+        },
+        {
+          "home": "IPSWICH DOWN FC",
+          "away": "HeineKean"
+        },
+        {
+          "home": "APEROL WIRTZ",
+          "away": "Herta Vernello"
+        },
+        {
+          "home": "Pietralata",
+          "away": "Thoffeineim"
+        },
+        {
+          "home": "AS Cibrone",
+          "away": "PERCHÈ ALWAYS ME"
+        }
+      ]
+    },
+    {
+      "matchday": 22,
+      "fixtures": [
+        {
+          "home": "Herta Vernello",
+          "away": "Pietralata"
+        },
+        {
+          "home": "PERCHÈ ALWAYS ME",
+          "away": "IPSWICH DOWN FC"
+        },
+        {
+          "home": "HeineKean",
+          "away": "Al-Asnai"
+        },
+        {
+          "home": "Thoffeineim",
+          "away": "AS Cibrone"
+        },
+        {
+          "home": "Chemio  Verona",
+          "away": "APEROL WIRTZ"
+        }
+      ]
+    },
+    {
+      "matchday": 23,
+      "fixtures": [
+        {
+          "home": "Al-Asnai",
+          "away": "PERCHÈ ALWAYS ME"
+        },
+        {
+          "home": "IPSWICH DOWN FC",
+          "away": "AS Cibrone"
+        },
+        {
+          "home": "Herta Vernello",
+          "away": "Thoffeineim"
+        },
+        {
+          "home": "APEROL WIRTZ",
+          "away": "HeineKean"
+        },
+        {
+          "home": "Pietralata",
+          "away": "Chemio  Verona"
+        }
+      ]
+    },
+    {
+      "matchday": 24,
+      "fixtures": [
+        {
+          "home": "PERCHÈ ALWAYS ME",
+          "away": "APEROL WIRTZ"
+        },
+        {
+          "home": "HeineKean",
+          "away": "Pietralata"
+        },
+        {
+          "home": "Thoffeineim",
+          "away": "IPSWICH DOWN FC"
+        },
+        {
+          "home": "Chemio  Verona",
+          "away": "Herta Vernello"
+        },
+        {
+          "home": "AS Cibrone",
+          "away": "Al-Asnai"
+        }
+      ]
+    },
+    {
+      "matchday": 25,
+      "fixtures": [
+        {
+          "home": "Al-Asnai",
+          "away": "IPSWICH DOWN FC"
+        },
+        {
+          "home": "Herta Vernello",
+          "away": "HeineKean"
+        },
+        {
+          "home": "APEROL WIRTZ",
+          "away": "AS Cibrone"
+        },
+        {
+          "home": "Pietralata",
+          "away": "PERCHÈ ALWAYS ME"
+        },
+        {
+          "home": "Chemio  Verona",
+          "away": "Thoffeineim"
+        }
+      ]
+    },
+    {
+      "matchday": 26,
+      "fixtures": [
+        {
+          "home": "Al-Asnai",
+          "away": "Thoffeineim"
+        },
+        {
+          "home": "IPSWICH DOWN FC",
+          "away": "APEROL WIRTZ"
+        },
+        {
+          "home": "PERCHÈ ALWAYS ME",
+          "away": "Herta Vernello"
+        },
+        {
+          "home": "HeineKean",
+          "away": "Chemio  Verona"
+        },
+        {
+          "home": "AS Cibrone",
+          "away": "Pietralata"
+        }
+      ]
+    },
+    {
+      "matchday": 27,
+      "fixtures": [
+        {
+          "home": "Herta Vernello",
+          "away": "AS Cibrone"
+        },
+        {
+          "home": "APEROL WIRTZ",
+          "away": "Al-Asnai"
+        },
+        {
+          "home": "Thoffeineim",
+          "away": "HeineKean"
+        },
+        {
+          "home": "Pietralata",
+          "away": "IPSWICH DOWN FC"
+        },
+        {
+          "home": "Chemio  Verona",
+          "away": "PERCHÈ ALWAYS ME"
+        }
+      ]
+    },
+    {
+      "matchday": 28,
+      "fixtures": [
+        {
+          "home": "Pietralata",
+          "away": "Al-Asnai"
+        },
+        {
+          "home": "Herta Vernello",
+          "away": "IPSWICH DOWN FC"
+        },
+        {
+          "home": "Thoffeineim",
+          "away": "APEROL WIRTZ"
+        },
+        {
+          "home": "HeineKean",
+          "away": "PERCHÈ ALWAYS ME"
+        },
+        {
+          "home": "Chemio  Verona",
+          "away": "AS Cibrone"
+        }
+      ]
+    },
+    {
+      "matchday": 29,
+      "fixtures": [
+        {
+          "home": "Al-Asnai",
+          "away": "Herta Vernello"
+        },
+        {
+          "home": "AS Cibrone",
+          "away": "HeineKean"
+        },
+        {
+          "home": "PERCHÈ ALWAYS ME",
+          "away": "Thoffeineim"
+        },
+        {
+          "home": "APEROL WIRTZ",
+          "away": "Pietralata"
+        },
+        {
+          "home": "IPSWICH DOWN FC",
+          "away": "Chemio  Verona"
+        }
+      ]
+    },
+    {
+      "matchday": 30,
+      "fixtures": [
+        {
+          "home": "Chemio  Verona",
+          "away": "Al-Asnai"
+        },
+        {
+          "home": "HeineKean",
+          "away": "IPSWICH DOWN FC"
+        },
+        {
+          "home": "Herta Vernello",
+          "away": "APEROL WIRTZ"
+        },
+        {
+          "home": "Thoffeineim",
+          "away": "Pietralata"
+        },
+        {
+          "home": "PERCHÈ ALWAYS ME",
+          "away": "AS Cibrone"
+        }
+      ]
+    },
+    {
+      "matchday": 31,
+      "fixtures": [
+        {
+          "home": "Pietralata",
+          "away": "Herta Vernello"
+        },
+        {
+          "home": "IPSWICH DOWN FC",
+          "away": "PERCHÈ ALWAYS ME"
+        },
+        {
+          "home": "Al-Asnai",
+          "away": "HeineKean"
+        },
+        {
+          "home": "AS Cibrone",
+          "away": "Thoffeineim"
+        },
+        {
+          "home": "APEROL WIRTZ",
+          "away": "Chemio  Verona"
+        }
+      ]
+    },
+    {
+      "matchday": 32,
+      "fixtures": [
+        {
+          "home": "PERCHÈ ALWAYS ME",
+          "away": "Al-Asnai"
+        },
+        {
+          "home": "AS Cibrone",
+          "away": "IPSWICH DOWN FC"
+        },
+        {
+          "home": "Thoffeineim",
+          "away": "Herta Vernello"
+        },
+        {
+          "home": "HeineKean",
+          "away": "APEROL WIRTZ"
+        },
+        {
+          "home": "Chemio  Verona",
+          "away": "Pietralata"
+        }
+      ]
+    },
+    {
+      "matchday": 33,
+      "fixtures": [
+        {
+          "home": "APEROL WIRTZ",
+          "away": "PERCHÈ ALWAYS ME"
+        },
+        {
+          "home": "Pietralata",
+          "away": "HeineKean"
+        },
+        {
+          "home": "IPSWICH DOWN FC",
+          "away": "Thoffeineim"
+        },
+        {
+          "home": "Herta Vernello",
+          "away": "Chemio  Verona"
+        },
+        {
+          "home": "Al-Asnai",
+          "away": "AS Cibrone"
+        }
+      ]
+    },
+    {
+      "matchday": 34,
+      "fixtures": [
+        {
+          "home": "IPSWICH DOWN FC",
+          "away": "Al-Asnai"
+        },
+        {
+          "home": "HeineKean",
+          "away": "Herta Vernello"
+        },
+        {
+          "home": "AS Cibrone",
+          "away": "APEROL WIRTZ"
+        },
+        {
+          "home": "PERCHÈ ALWAYS ME",
+          "away": "Pietralata"
+        },
+        {
+          "home": "Thoffeineim",
+          "away": "Chemio  Verona"
+        }
+      ]
+    }
+  ],
+  "total_matchdays": 34
+}

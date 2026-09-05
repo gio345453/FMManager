@@ -1,0 +1,26 @@
+{
+  "season": "2025-26",
+  "league": "Serie A",
+  "teams": {
+    "Inter": {"pos": 1, "pts": 87, "gf": 89, "gs": 35},
+    "Napoli": {"pos": 2, "pts": 76, "gf": 58, "gs": 36},
+    "Roma": {"pos": 3, "pts": 73, "gf": 59, "gs": 31},
+    "Como": {"pos": 4, "pts": 71, "gf": 65, "gs": 29},
+    "Milan": {"pos": 5, "pts": 70, "gf": 53, "gs": 35},
+    "Juventus": {"pos": 6, "pts": 69, "gf": 61, "gs": 34},
+    "Atalanta": {"pos": 7, "pts": 59, "gf": 51, "gs": 36},
+    "Bologna": {"pos": 8, "pts": 56, "gf": 49, "gs": 46},
+    "Lazio": {"pos": 9, "pts": 54, "gf": 41, "gs": 40},
+    "Udinese": {"pos": 10, "pts": 50, "gf": 45, "gs": 48},
+    "Sassuolo": {"pos": 11, "pts": 49, "gf": 46, "gs": 50},
+    "Torino": {"pos": 12, "pts": 45, "gf": 44, "gs": 63},
+    "Parma": {"pos": 13, "pts": 45, "gf": 28, "gs": 46},
+    "Cagliari": {"pos": 14, "pts": 43, "gf": 40, "gs": 53},
+    "Fiorentina": {"pos": 15, "pts": 42, "gf": 41, "gs": 50},
+    "Genoa": {"pos": 16, "pts": 41, "gf": 41, "gs": 51},
+    "Lecce": {"pos": 17, "pts": 38, "gf": 28, "gs": 50},
+    "Cremonese": {"pos": 18, "pts": 34, "gf": 32, "gs": 57},
+    "Verona": {"pos": 19, "pts": 21, "gf": 25, "gs": 59},
+    "Pisa": {"pos": 20, "pts": 18, "gf": 26, "gs": 70}
+  }
+}

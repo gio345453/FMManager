@@ -1,0 +1,735 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-29T21:49:20",
+  "formula": {
+    "recent_metric": "team_goals_per_game / league_goals_per_game",
+    "defense_metric": "league_goals_conceded_per_game / team_goals_conceded_per_game",
+    "history_weights": [
+      0.6,
+      0.25,
+      0.15
+    ],
+    "recent_season": "2025-26"
+  },
+  "seasons": [
+    {
+      "season": "2025-26",
+      "league": "Serie A",
+      "source_quality": "season_standings",
+      "league_gf_per_game": 1.2132,
+      "league_gs_per_game": 1.2092
+    },
+    {
+      "season": "2024-25",
+      "league": "Serie A",
+      "source_quality": "legacy_serie_a",
+      "league_gf_per_game": 1.5671,
+      "league_gs_per_game": 1.3474
+    },
+    {
+      "season": "2023-24",
+      "league": "Serie A",
+      "source_quality": "legacy_serie_a",
+      "league_gf_per_game": 1.2961,
+      "league_gs_per_game": 1.2842
+    }
+  ],
+  "teams": {
+    "Atalanta": {
+      "recent_attack": 4.656,
+      "recent_defense": 7.012,
+      "historical_attack": 9.25,
+      "historical_defense": 3.652,
+      "recent_season": "2025-26",
+      "recent_source_quality": "season_standings",
+      "historical_attack_weights": [
+        {
+          "season": "2024-25",
+          "weight": 0.7059
+        },
+        {
+          "season": "2023-24",
+          "weight": 0.2941
+        }
+      ],
+      "historical_defense_weights": [
+        {
+          "season": "2024-25",
+          "weight": 0.7059
+        },
+        {
+          "season": "2023-24",
+          "weight": 0.2941
+        }
+      ],
+      "recent_gf_per_game": 1.3421,
+      "recent_gs_per_game": 0.9474,
+      "recent_attack_ratio": 1.1063,
+      "recent_defense_ratio": 1.2764
+    },
+    "Bologna": {
+      "recent_attack": 4.375,
+      "recent_defense": 4.321,
+      "historical_attack": 5.279,
+      "historical_defense": 3.555,
+      "recent_season": "2025-26",
+      "recent_source_quality": "season_standings",
+      "historical_attack_weights": [
+        {
+          "season": "2024-25",
+          "weight": 0.7059
+        },
+        {
+          "season": "2023-24",
+          "weight": 0.2941
+        }
+      ],
+      "historical_defense_weights": [
+        {
+          "season": "2024-25",
+          "weight": 0.7059
+        },
+        {
+          "season": "2023-24",
+          "weight": 0.2941
+        }
+      ],
+      "recent_gf_per_game": 1.2895,
+      "recent_gs_per_game": 1.2105,
+      "recent_attack_ratio": 1.0629,
+      "recent_defense_ratio": 0.9989
+    },
+    "Cagliari": {
+      "recent_attack": 3.109,
+      "recent_defense": 3.042,
+      "historical_attack": 2.121,
+      "historical_defense": 1.895,
+      "recent_season": "2025-26",
+      "recent_source_quality": "season_standings",
+      "historical_attack_weights": [
+        {
+          "season": "2024-25",
+          "weight": 0.7059
+        },
+        {
+          "season": "2023-24",
+          "weight": 0.2941
+        }
+      ],
+      "historical_defense_weights": [
+        {
+          "season": "2024-25",
+          "weight": 0.7059
+        },
+        {
+          "season": "2023-24",
+          "weight": 0.2941
+        }
+      ],
+      "recent_gf_per_game": 1.0526,
+      "recent_gs_per_game": 1.3947,
+      "recent_attack_ratio": 0.8677,
+      "recent_defense_ratio": 0.867
+    },
+    "Como": {
+      "recent_attack": 6.625,
+      "recent_defense": 10.0,
+      "historical_attack": 2.8,
+      "historical_defense": 1.448,
+      "recent_season": "2025-26",
+      "recent_source_quality": "season_standings",
+      "historical_attack_weights": [
+        {
+          "season": "2024-25",
+          "weight": 1.0
+        }
+      ],
+      "historical_defense_weights": [
+        {
+          "season": "2024-25",
+          "weight": 1.0
+        }
+      ],
+      "recent_gf_per_game": 1.7105,
+      "recent_gs_per_game": 0.7632,
+      "recent_attack_ratio": 1.41,
+      "recent_defense_ratio": 1.5845
+    },
+    "Cremonese": {
+      "recent_attack": 1.984,
+      "recent_defense": 2.452,
+      "historical_attack": null,
+      "historical_defense": null,
+      "recent_season": "2025-26",
+      "recent_source_quality": "season_standings",
+      "historical_attack_weights": [],
+      "historical_defense_weights": [],
+      "recent_gf_per_game": 0.8421,
+      "recent_gs_per_game": 1.5,
+      "recent_attack_ratio": 0.6941,
+      "recent_defense_ratio": 0.8061
+    },
+    "Empoli": {
+      "recent_attack": null,
+      "recent_defense": null,
+      "historical_attack": 1.847,
+      "historical_defense": 2.613,
+      "recent_season": null,
+      "recent_source_quality": "missing",
+      "historical_attack_weights": [
+        {
+          "season": "2024-25",
+          "weight": 0.7059
+        },
+        {
+          "season": "2023-24",
+          "weight": 0.2941
+        }
+      ],
+      "historical_defense_weights": [
+        {
+          "season": "2024-25",
+          "weight": 0.7059
+        },
+        {
+          "season": "2023-24",
+          "weight": 0.2941
+        }
+      ]
+    },
+    "Fiorentina": {
+      "recent_attack": 3.25,
+      "recent_defense": 3.546,
+      "historical_attack": 5.791,
+      "historical_defense": 3.04,
+      "recent_season": "2025-26",
+      "recent_source_quality": "season_standings",
+      "historical_attack_weights": [
+        {
+          "season": "2024-25",
+          "weight": 0.7059
+        },
+        {
+          "season": "2023-24",
+          "weight": 0.2941
+        }
+      ],
+      "historical_defense_weights": [
+        {
+          "season": "2024-25",
+          "weight": 0.7059
+        },
+        {
+          "season": "2023-24",
+          "weight": 0.2941
+        }
+      ],
+      "recent_gf_per_game": 1.0789,
+      "recent_gs_per_game": 1.3158,
+      "recent_attack_ratio": 0.8894,
+      "recent_defense_ratio": 0.919
+    },
+    "Frosinone": {
+      "recent_attack": null,
+      "recent_defense": null,
+      "historical_attack": 2.95,
+      "historical_defense": 1.716,
+      "recent_season": null,
+      "recent_source_quality": "missing",
+      "historical_attack_weights": [
+        {
+          "season": "2023-24",
+          "weight": 1.0
+        }
+      ],
+      "historical_defense_weights": [
+        {
+          "season": "2023-24",
+          "weight": 1.0
+        }
+      ]
+    },
+    "Genoa": {
+      "recent_attack": 3.25,
+      "recent_defense": 3.372,
+      "historical_attack": 2.509,
+      "historical_defense": 2.275,
+      "recent_season": "2025-26",
+      "recent_source_quality": "season_standings",
+      "historical_attack_weights": [
+        {
+          "season": "2024-25",
+          "weight": 0.7059
+        },
+        {
+          "season": "2023-24",
+          "weight": 0.2941
+        }
+      ],
+      "historical_defense_weights": [
+        {
+          "season": "2024-25",
+          "weight": 0.7059
+        },
+        {
+          "season": "2023-24",
+          "weight": 0.2941
+        }
+      ],
+      "recent_gf_per_game": 1.0789,
+      "recent_gs_per_game": 1.3421,
+      "recent_attack_ratio": 0.8894,
+      "recent_defense_ratio": 0.901
+    },
+    "Inter": {
+      "recent_attack": 10.0,
+      "recent_defense": 7.366,
+      "historical_attack": 9.047,
+      "historical_defense": 9.196,
+      "recent_season": "2025-26",
+      "recent_source_quality": "season_standings",
+      "historical_attack_weights": [
+        {
+          "season": "2024-25",
+          "weight": 0.7059
+        },
+        {
+          "season": "2023-24",
+          "weight": 0.2941
+        }
+      ],
+      "historical_defense_weights": [
+        {
+          "season": "2024-25",
+          "weight": 0.7059
+        },
+        {
+          "season": "2023-24",
+          "weight": 0.2941
+        }
+      ],
+      "recent_gf_per_game": 2.3421,
+      "recent_gs_per_game": 0.9211,
+      "recent_attack_ratio": 1.9306,
+      "recent_defense_ratio": 1.3129
+    },
+    "Juventus": {
+      "recent_attack": 6.063,
+      "recent_defense": 7.74,
+      "historical_attack": 3.797,
+      "historical_defense": 9.844,
+      "recent_season": "2025-26",
+      "recent_source_quality": "season_standings",
+      "historical_attack_weights": [
+        {
+          "season": "2024-25",
+          "weight": 0.7059
+        },
+        {
+          "season": "2023-24",
+          "weight": 0.2941
+        }
+      ],
+      "historical_defense_weights": [
+        {
+          "season": "2024-25",
+          "weight": 0.7059
+        },
+        {
+          "season": "2023-24",
+          "weight": 0.2941
+        }
+      ],
+      "recent_gf_per_game": 1.6053,
+      "recent_gs_per_game": 0.8947,
+      "recent_attack_ratio": 1.3232,
+      "recent_defense_ratio": 1.3515
+    },
+    "Lazio": {
+      "recent_attack": 3.25,
+      "recent_defense": 5.774,
+      "historical_attack": 6.444,
+      "historical_defense": 3.126,
+      "recent_season": "2025-26",
+      "recent_source_quality": "season_standings",
+      "historical_attack_weights": [
+        {
+          "season": "2024-25",
+          "weight": 0.7059
+        },
+        {
+          "season": "2023-24",
+          "weight": 0.2941
+        }
+      ],
+      "historical_defense_weights": [
+        {
+          "season": "2024-25",
+          "weight": 0.7059
+        },
+        {
+          "season": "2023-24",
+          "weight": 0.2941
+        }
+      ],
+      "recent_gf_per_game": 1.0789,
+      "recent_gs_per_game": 1.0526,
+      "recent_attack_ratio": 0.8894,
+      "recent_defense_ratio": 1.1487
+    },
+    "Lecce": {
+      "recent_attack": 1.422,
+      "recent_defense": 3.546,
+      "historical_attack": 1.132,
+      "historical_defense": 1.682,
+      "recent_season": "2025-26",
+      "recent_source_quality": "season_standings",
+      "historical_attack_weights": [
+        {
+          "season": "2024-25",
+          "weight": 0.7059
+        },
+        {
+          "season": "2023-24",
+          "weight": 0.2941
+        }
+      ],
+      "historical_defense_weights": [
+        {
+          "season": "2024-25",
+          "weight": 0.7059
+        },
+        {
+          "season": "2023-24",
+          "weight": 0.2941
+        }
+      ],
+      "recent_gf_per_game": 0.7368,
+      "recent_gs_per_game": 1.3158,
+      "recent_attack_ratio": 0.6074,
+      "recent_defense_ratio": 0.919
+    },
+    "Milan": {
+      "recent_attack": 4.937,
+      "recent_defense": 7.366,
+      "historical_attack": 7.097,
+      "historical_defense": 2.781,
+      "recent_season": "2025-26",
+      "recent_source_quality": "season_standings",
+      "historical_attack_weights": [
+        {
+          "season": "2024-25",
+          "weight": 0.7059
+        },
+        {
+          "season": "2023-24",
+          "weight": 0.2941
+        }
+      ],
+      "historical_defense_weights": [
+        {
+          "season": "2024-25",
+          "weight": 0.7059
+        },
+        {
+          "season": "2023-24",
+          "weight": 0.2941
+        }
+      ],
+      "recent_gf_per_game": 1.3947,
+      "recent_gs_per_game": 0.9211,
+      "recent_attack_ratio": 1.1497,
+      "recent_defense_ratio": 1.3129
+    },
+    "Monza": {
+      "recent_attack": null,
+      "recent_defense": null,
+      "historical_attack": 2.209,
+      "historical_defense": 1.935,
+      "recent_season": null,
+      "recent_source_quality": "missing",
+      "historical_attack_weights": [
+        {
+          "season": "2024-25",
+          "weight": 0.7059
+        },
+        {
+          "season": "2023-24",
+          "weight": 0.2941
+        }
+      ],
+      "historical_defense_weights": [
+        {
+          "season": "2024-25",
+          "weight": 0.7059
+        },
+        {
+          "season": "2023-24",
+          "weight": 0.2941
+        }
+      ]
+    },
+    "Napoli": {
+      "recent_attack": 5.641,
+      "recent_defense": 7.012,
+      "historical_attack": 5.491,
+      "historical_defense": 4.259,
+      "recent_season": "2025-26",
+      "recent_source_quality": "season_standings",
+      "historical_attack_weights": [
+        {
+          "season": "2024-25",
+          "weight": 0.7059
+        },
+        {
+          "season": "2023-24",
+          "weight": 0.2941
+        }
+      ],
+      "historical_defense_weights": [
+        {
+          "season": "2024-25",
+          "weight": 0.7059
+        },
+        {
+          "season": "2023-24",
+          "weight": 0.2941
+        }
+      ],
+      "recent_gf_per_game": 1.5263,
+      "recent_gs_per_game": 0.9474,
+      "recent_attack_ratio": 1.2581,
+      "recent_defense_ratio": 1.2764
+    },
+    "Parma": {
+      "recent_attack": 1.422,
+      "recent_defense": 4.321,
+      "historical_attack": 3.1,
+      "historical_defense": 1.647,
+      "recent_season": "2025-26",
+      "recent_source_quality": "season_standings",
+      "historical_attack_weights": [
+        {
+          "season": "2024-25",
+          "weight": 1.0
+        }
+      ],
+      "historical_defense_weights": [
+        {
+          "season": "2024-25",
+          "weight": 1.0
+        }
+      ],
+      "recent_gf_per_game": 0.7368,
+      "recent_gs_per_game": 1.2105,
+      "recent_attack_ratio": 0.6074,
+      "recent_defense_ratio": 0.9989
+    },
+    "Pisa": {
+      "recent_attack": 1.141,
+      "recent_defense": 1.0,
+      "historical_attack": null,
+      "historical_defense": null,
+      "recent_season": "2025-26",
+      "recent_source_quality": "season_standings",
+      "historical_attack_weights": [],
+      "historical_defense_weights": [],
+      "recent_gf_per_game": 0.6842,
+      "recent_gs_per_game": 1.8421,
+      "recent_attack_ratio": 0.564,
+      "recent_defense_ratio": 0.6564
+    },
+    "Roma": {
+      "recent_attack": 5.781,
+      "recent_defense": 9.009,
+      "historical_attack": 5.447,
+      "historical_defense": 3.122,
+      "recent_season": "2025-26",
+      "recent_source_quality": "season_standings",
+      "historical_attack_weights": [
+        {
+          "season": "2024-25",
+          "weight": 0.7059
+        },
+        {
+          "season": "2023-24",
+          "weight": 0.2941
+        }
+      ],
+      "historical_defense_weights": [
+        {
+          "season": "2024-25",
+          "weight": 0.7059
+        },
+        {
+          "season": "2023-24",
+          "weight": 0.2941
+        }
+      ],
+      "recent_gf_per_game": 1.5526,
+      "recent_gs_per_game": 0.8158,
+      "recent_attack_ratio": 1.2798,
+      "recent_defense_ratio": 1.4823
+    },
+    "Salernitana": {
+      "recent_attack": null,
+      "recent_defense": null,
+      "historical_attack": 1.15,
+      "historical_defense": 1.0,
+      "recent_season": null,
+      "recent_source_quality": "missing",
+      "historical_attack_weights": [
+        {
+          "season": "2023-24",
+          "weight": 1.0
+        }
+      ],
+      "historical_defense_weights": [
+        {
+          "season": "2023-24",
+          "weight": 1.0
+        }
+      ]
+    },
+    "Sassuolo": {
+      "recent_attack": 3.953,
+      "recent_defense": 3.546,
+      "historical_attack": 2.95,
+      "historical_defense": 1.716,
+      "recent_season": "2025-26",
+      "recent_source_quality": "season_standings",
+      "historical_attack_weights": [
+        {
+          "season": "2023-24",
+          "weight": 1.0
+        }
+      ],
+      "historical_defense_weights": [
+        {
+          "season": "2023-24",
+          "weight": 1.0
+        }
+      ],
+      "recent_gf_per_game": 1.2105,
+      "recent_gs_per_game": 1.3158,
+      "recent_attack_ratio": 0.9978,
+      "recent_defense_ratio": 0.919
+    },
+    "Torino": {
+      "recent_attack": 3.672,
+      "recent_defense": 1.707,
+      "historical_attack": 3.426,
+      "historical_defense": 3.749,
+      "recent_season": "2025-26",
+      "recent_source_quality": "season_standings",
+      "historical_attack_weights": [
+        {
+          "season": "2024-25",
+          "weight": 0.7059
+        },
+        {
+          "season": "2023-24",
+          "weight": 0.2941
+        }
+      ],
+      "historical_defense_weights": [
+        {
+          "season": "2024-25",
+          "weight": 0.7059
+        },
+        {
+          "season": "2023-24",
+          "weight": 0.2941
+        }
+      ],
+      "recent_gf_per_game": 1.1579,
+      "recent_gs_per_game": 1.6579,
+      "recent_attack_ratio": 0.9544,
+      "recent_defense_ratio": 0.7294
+    },
+    "Udinese": {
+      "recent_attack": 3.812,
+      "recent_defense": 3.918,
+      "historical_attack": 2.579,
+      "historical_defense": 1.822,
+      "recent_season": "2025-26",
+      "recent_source_quality": "season_standings",
+      "historical_attack_weights": [
+        {
+          "season": "2024-25",
+          "weight": 0.7059
+        },
+        {
+          "season": "2023-24",
+          "weight": 0.2941
+        }
+      ],
+      "historical_defense_weights": [
+        {
+          "season": "2024-25",
+          "weight": 0.7059
+        },
+        {
+          "season": "2023-24",
+          "weight": 0.2941
+        }
+      ],
+      "recent_gf_per_game": 1.1842,
+      "recent_gs_per_game": 1.2632,
+      "recent_attack_ratio": 0.9761,
+      "recent_defense_ratio": 0.9573
+    },
+    "Venezia": {
+      "recent_attack": null,
+      "recent_defense": null,
+      "historical_attack": 1.75,
+      "historical_defense": 1.0,
+      "recent_season": null,
+      "recent_source_quality": "missing",
+      "historical_attack_weights": [
+        {
+          "season": "2024-25",
+          "weight": 1.0
+        }
+      ],
+      "historical_defense_weights": [
+        {
+          "season": "2024-25",
+          "weight": 1.0
+        }
+      ]
+    },
+    "Verona": {
+      "recent_attack": 1.0,
+      "recent_defense": 2.187,
+      "historical_attack": 2.562,
+      "historical_defense": 1.596,
+      "recent_season": "2025-26",
+      "recent_source_quality": "season_standings",
+      "historical_attack_weights": [
+        {
+          "season": "2024-25",
+          "weight": 0.7059
+        },
+        {
+          "season": "2023-24",
+          "weight": 0.2941
+        }
+      ],
+      "historical_defense_weights": [
+        {
+          "season": "2024-25",
+          "weight": 0.7059
+        },
+        {
+          "season": "2023-24",
+          "weight": 0.2941
+        }
+      ],
+      "recent_gf_per_game": 0.6579,
+      "recent_gs_per_game": 1.5526,
+      "recent_attack_ratio": 0.5423,
+      "recent_defense_ratio": 0.7788
+    }
+  }
+}

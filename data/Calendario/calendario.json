@@ -1,0 +1,3428 @@
+{
+  "season": "2026-27",
+  "download_date": "2026-09-05T17:44:10.868464",
+  "source": "football-data.org",
+  "total_matches": 380,
+  "matches": [
+    {
+      "matchday": 1,
+      "date": "2026-08-22",
+      "home_team": "Udinese",
+      "away_team": "Como",
+      "home_goals": 1,
+      "away_goals": 1,
+      "played": true
+    },
+    {
+      "matchday": 1,
+      "date": "2026-08-22",
+      "home_team": "Inter",
+      "away_team": "Monza",
+      "home_goals": 4,
+      "away_goals": 1,
+      "played": true
+    },
+    {
+      "matchday": 1,
+      "date": "2026-08-22",
+      "home_team": "Genoa",
+      "away_team": "Napoli",
+      "home_goals": 0,
+      "away_goals": 2,
+      "played": true
+    },
+    {
+      "matchday": 1,
+      "date": "2026-08-22",
+      "home_team": "Parma",
+      "away_team": "Cagliari Calcio",
+      "home_goals": 0,
+      "away_goals": 1,
+      "played": true
+    },
+    {
+      "matchday": 1,
+      "date": "2026-08-23",
+      "home_team": "Frosinone Calcio",
+      "away_team": "Juventus Fc",
+      "home_goals": 0,
+      "away_goals": 1,
+      "played": true
+    },
+    {
+      "matchday": 1,
+      "date": "2026-08-23",
+      "home_team": "Venezia Fc",
+      "away_team": "Lecce",
+      "home_goals": 0,
+      "away_goals": 2,
+      "played": true
+    },
+    {
+      "matchday": 1,
+      "date": "2026-08-23",
+      "home_team": "Atalanta Bc",
+      "away_team": "Us Sassuolo Calcio",
+      "home_goals": 2,
+      "away_goals": 1,
+      "played": true
+    },
+    {
+      "matchday": 1,
+      "date": "2026-08-23",
+      "home_team": "Torino",
+      "away_team": "Milan",
+      "home_goals": 1,
+      "away_goals": 2,
+      "played": true
+    },
+    {
+      "matchday": 1,
+      "date": "2026-08-24",
+      "home_team": "Bologna",
+      "away_team": "Lazio",
+      "home_goals": 0,
+      "away_goals": 1,
+      "played": true
+    },
+    {
+      "matchday": 1,
+      "date": "2026-08-24",
+      "home_team": "Roma",
+      "away_team": "Fiorentina",
+      "home_goals": 4,
+      "away_goals": 0,
+      "played": true
+    },
+    {
+      "matchday": 2,
+      "date": "2026-08-28",
+      "home_team": "Milan",
+      "away_team": "Venezia Fc",
+      "home_goals": 2,
+      "away_goals": 0,
+      "played": true
+    },
+    {
+      "matchday": 2,
+      "date": "2026-08-29",
+      "home_team": "Us Sassuolo Calcio",
+      "away_team": "Torino",
+      "home_goals": 2,
+      "away_goals": 1,
+      "played": true
+    },
+    {
+      "matchday": 2,
+      "date": "2026-08-29",
+      "home_team": "Monza",
+      "away_team": "Udinese",
+      "home_goals": 2,
+      "away_goals": 3,
+      "played": true
+    },
+    {
+      "matchday": 2,
+      "date": "2026-08-29",
+      "home_team": "Fiorentina",
+      "away_team": "Frosinone Calcio",
+      "home_goals": 0,
+      "away_goals": 3,
+      "played": true
+    },
+    {
+      "matchday": 2,
+      "date": "2026-08-29",
+      "home_team": "Juventus Fc",
+      "away_team": "Parma",
+      "home_goals": 2,
+      "away_goals": 0,
+      "played": true
+    },
+    {
+      "matchday": 2,
+      "date": "2026-08-30",
+      "home_team": "Napoli",
+      "away_team": "Como",
+      "home_goals": 1,
+      "away_goals": 2,
+      "played": true
+    },
+    {
+      "matchday": 2,
+      "date": "2026-08-30",
+      "home_team": "Lazio",
+      "away_team": "Genoa",
+      "home_goals": 1,
+      "away_goals": 0,
+      "played": true
+    },
+    {
+      "matchday": 2,
+      "date": "2026-08-30",
+      "home_team": "Cagliari Calcio",
+      "away_team": "Inter",
+      "home_goals": 0,
+      "away_goals": 1,
+      "played": true
+    },
+    {
+      "matchday": 2,
+      "date": "2026-08-31",
+      "home_team": "Lecce",
+      "away_team": "Roma",
+      "home_goals": 0,
+      "away_goals": 4,
+      "played": true
+    },
+    {
+      "matchday": 2,
+      "date": "2026-08-31",
+      "home_team": "Atalanta Bc",
+      "away_team": "Bologna",
+      "home_goals": 1,
+      "away_goals": 0,
+      "played": true
+    },
+    {
+      "matchday": 3,
+      "date": "2026-09-04",
+      "home_team": "Genoa",
+      "away_team": "Como",
+      "home_goals": 1,
+      "away_goals": 4,
+      "played": true
+    },
+    {
+      "matchday": 3,
+      "date": "2026-09-05",
+      "home_team": "Fiorentina",
+      "away_team": "Torino",
+      "home_goals": 1,
+      "away_goals": 2,
+      "played": true
+    },
+    {
+      "matchday": 3,
+      "date": "2026-09-05",
+      "home_team": "Inter",
+      "away_team": "Napoli",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 3,
+      "date": "2026-09-05",
+      "home_team": "Roma",
+      "away_team": "Atalanta Bc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 3,
+      "date": "2026-09-06",
+      "home_team": "Parma",
+      "away_team": "Monza",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 3,
+      "date": "2026-09-06",
+      "home_team": "Frosinone Calcio",
+      "away_team": "Venezia Fc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 3,
+      "date": "2026-09-06",
+      "home_team": "Bologna",
+      "away_team": "Us Sassuolo Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 3,
+      "date": "2026-09-06",
+      "home_team": "Juventus Fc",
+      "away_team": "Milan",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 3,
+      "date": "2026-09-07",
+      "home_team": "Cagliari Calcio",
+      "away_team": "Lecce",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 3,
+      "date": "2026-09-07",
+      "home_team": "Udinese",
+      "away_team": "Lazio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 4,
+      "date": "2026-09-11",
+      "home_team": "Venezia Fc",
+      "away_team": "Fiorentina",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 4,
+      "date": "2026-09-12",
+      "home_team": "Genoa",
+      "away_team": "Frosinone Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 4,
+      "date": "2026-09-12",
+      "home_team": "Lazio",
+      "away_team": "Milan",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 4,
+      "date": "2026-09-12",
+      "home_team": "Atalanta Bc",
+      "away_team": "Cagliari Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 4,
+      "date": "2026-09-13",
+      "home_team": "Lecce",
+      "away_team": "Monza",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 4,
+      "date": "2026-09-13",
+      "home_team": "Napoli",
+      "away_team": "Bologna",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 4,
+      "date": "2026-09-13",
+      "home_team": "Us Sassuolo Calcio",
+      "away_team": "Juventus Fc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 4,
+      "date": "2026-09-14",
+      "home_team": "Como",
+      "away_team": "Parma",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 4,
+      "date": "2026-09-14",
+      "home_team": "Torino",
+      "away_team": "Roma",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 4,
+      "date": "2026-09-14",
+      "home_team": "Inter",
+      "away_team": "Udinese",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 5,
+      "date": "2026-09-18",
+      "home_team": "Monza",
+      "away_team": "Us Sassuolo Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 5,
+      "date": "2026-09-19",
+      "home_team": "Bologna",
+      "away_team": "Torino",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 5,
+      "date": "2026-09-19",
+      "home_team": "Udinese",
+      "away_team": "Cagliari Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 5,
+      "date": "2026-09-19",
+      "home_team": "Roma",
+      "away_team": "Inter",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 5,
+      "date": "2026-09-19",
+      "home_team": "Venezia Fc",
+      "away_team": "Lazio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 5,
+      "date": "2026-09-20",
+      "home_team": "Fiorentina",
+      "away_team": "Napoli",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 5,
+      "date": "2026-09-20",
+      "home_team": "Frosinone Calcio",
+      "away_team": "Como",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 5,
+      "date": "2026-09-20",
+      "home_team": "Parma",
+      "away_team": "Genoa",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 5,
+      "date": "2026-09-20",
+      "home_team": "Juventus Fc",
+      "away_team": "Atalanta Bc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 5,
+      "date": "2026-09-20",
+      "home_team": "Milan",
+      "away_team": "Lecce",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 6,
+      "date": "2026-10-10",
+      "home_team": "Genoa",
+      "away_team": "Fiorentina",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 6,
+      "date": "2026-10-10",
+      "home_team": "Inter",
+      "away_team": "Parma",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 6,
+      "date": "2026-10-10",
+      "home_team": "Napoli",
+      "away_team": "Frosinone Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 6,
+      "date": "2026-10-11",
+      "home_team": "Como",
+      "away_team": "Roma",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 6,
+      "date": "2026-10-11",
+      "home_team": "Lecce",
+      "away_team": "Bologna",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 6,
+      "date": "2026-10-11",
+      "home_team": "Lazio",
+      "away_team": "Monza",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 6,
+      "date": "2026-10-11",
+      "home_team": "Us Sassuolo Calcio",
+      "away_team": "Milan",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 6,
+      "date": "2026-10-11",
+      "home_team": "Cagliari Calcio",
+      "away_team": "Juventus Fc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 6,
+      "date": "2026-10-12",
+      "home_team": "Atalanta Bc",
+      "away_team": "Venezia Fc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 6,
+      "date": "2026-10-12",
+      "home_team": "Torino",
+      "away_team": "Udinese",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 7,
+      "date": "2026-10-16",
+      "home_team": "Frosinone Calcio",
+      "away_team": "Us Sassuolo Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 7,
+      "date": "2026-10-17",
+      "home_team": "Venezia Fc",
+      "away_team": "Napoli",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 7,
+      "date": "2026-10-17",
+      "home_team": "Bologna",
+      "away_team": "Inter",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 7,
+      "date": "2026-10-17",
+      "home_team": "Roma",
+      "away_team": "Genoa",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 7,
+      "date": "2026-10-18",
+      "home_team": "Udinese",
+      "away_team": "Lecce",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 7,
+      "date": "2026-10-18",
+      "home_team": "Fiorentina",
+      "away_team": "Como",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 7,
+      "date": "2026-10-18",
+      "home_team": "Milan",
+      "away_team": "Atalanta Bc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 7,
+      "date": "2026-10-18",
+      "home_team": "Juventus Fc",
+      "away_team": "Lazio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 7,
+      "date": "2026-10-19",
+      "home_team": "Monza",
+      "away_team": "Cagliari Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 7,
+      "date": "2026-10-19",
+      "home_team": "Parma",
+      "away_team": "Torino",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 8,
+      "date": "2026-10-23",
+      "home_team": "Torino",
+      "away_team": "Monza",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 8,
+      "date": "2026-10-24",
+      "home_team": "Cagliari Calcio",
+      "away_team": "Bologna",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 8,
+      "date": "2026-10-24",
+      "home_team": "Como",
+      "away_team": "Us Sassuolo Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 8,
+      "date": "2026-10-24",
+      "home_team": "Napoli",
+      "away_team": "Roma",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 8,
+      "date": "2026-10-24",
+      "home_team": "Lazio",
+      "away_team": "Parma",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 8,
+      "date": "2026-10-25",
+      "home_team": "Inter",
+      "away_team": "Fiorentina",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 8,
+      "date": "2026-10-25",
+      "home_team": "Atalanta Bc",
+      "away_team": "Frosinone Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 8,
+      "date": "2026-10-25",
+      "home_team": "Genoa",
+      "away_team": "Venezia Fc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 8,
+      "date": "2026-10-25",
+      "home_team": "Lecce",
+      "away_team": "Juventus Fc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 8,
+      "date": "2026-10-25",
+      "home_team": "Udinese",
+      "away_team": "Milan",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 9,
+      "date": "2026-10-27",
+      "home_team": "Us Sassuolo Calcio",
+      "away_team": "Lazio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 9,
+      "date": "2026-10-27",
+      "home_team": "Roma",
+      "away_team": "Cagliari Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 9,
+      "date": "2026-10-27",
+      "home_team": "Torino",
+      "away_team": "Como",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 9,
+      "date": "2026-10-28",
+      "home_team": "Milan",
+      "away_team": "Bologna",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 9,
+      "date": "2026-10-28",
+      "home_team": "Venezia Fc",
+      "away_team": "Inter",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 9,
+      "date": "2026-10-28",
+      "home_team": "Parma",
+      "away_team": "Udinese",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 9,
+      "date": "2026-10-28",
+      "home_team": "Genoa",
+      "away_team": "Juventus Fc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 9,
+      "date": "2026-10-28",
+      "home_team": "Monza",
+      "away_team": "Napoli",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 9,
+      "date": "2026-10-29",
+      "home_team": "Frosinone Calcio",
+      "away_team": "Lecce",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 9,
+      "date": "2026-10-29",
+      "home_team": "Fiorentina",
+      "away_team": "Atalanta Bc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 10,
+      "date": "2026-10-31",
+      "home_team": "Bologna",
+      "away_team": "Monza",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 10,
+      "date": "2026-10-31",
+      "home_team": "Udinese",
+      "away_team": "Roma",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 10,
+      "date": "2026-10-31",
+      "home_team": "Milan",
+      "away_team": "Inter",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 10,
+      "date": "2026-11-01",
+      "home_team": "Como",
+      "away_team": "Venezia Fc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 10,
+      "date": "2026-11-01",
+      "home_team": "Frosinone Calcio",
+      "away_team": "Torino",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 10,
+      "date": "2026-11-01",
+      "home_team": "Lazio",
+      "away_team": "Cagliari Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 10,
+      "date": "2026-11-01",
+      "home_team": "Lecce",
+      "away_team": "Genoa",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 10,
+      "date": "2026-11-01",
+      "home_team": "Juventus Fc",
+      "away_team": "Napoli",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 10,
+      "date": "2026-11-02",
+      "home_team": "Us Sassuolo Calcio",
+      "away_team": "Fiorentina",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 10,
+      "date": "2026-11-02",
+      "home_team": "Atalanta Bc",
+      "away_team": "Parma",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 11,
+      "date": "2026-11-06",
+      "home_team": "Venezia Fc",
+      "away_team": "Udinese",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 11,
+      "date": "2026-11-07",
+      "home_team": "Torino",
+      "away_team": "Lecce",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 11,
+      "date": "2026-11-07",
+      "home_team": "Cagliari Calcio",
+      "away_team": "Frosinone Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 11,
+      "date": "2026-11-07",
+      "home_team": "Parma",
+      "away_team": "Bologna",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 11,
+      "date": "2026-11-07",
+      "home_team": "Roma",
+      "away_team": "Us Sassuolo Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 11,
+      "date": "2026-11-08",
+      "home_team": "Napoli",
+      "away_team": "Lazio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 11,
+      "date": "2026-11-08",
+      "home_team": "Genoa",
+      "away_team": "Milan",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 11,
+      "date": "2026-11-08",
+      "home_team": "Monza",
+      "away_team": "Atalanta Bc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 11,
+      "date": "2026-11-08",
+      "home_team": "Inter",
+      "away_team": "Como",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 11,
+      "date": "2026-11-08",
+      "home_team": "Fiorentina",
+      "away_team": "Juventus Fc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 12,
+      "date": "2026-11-21",
+      "home_team": "Como",
+      "away_team": "Cagliari Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 12,
+      "date": "2026-11-21",
+      "home_team": "Lazio",
+      "away_team": "Lecce",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 12,
+      "date": "2026-11-21",
+      "home_team": "Parma",
+      "away_team": "Roma",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 12,
+      "date": "2026-11-21",
+      "home_team": "Napoli",
+      "away_team": "Torino",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 12,
+      "date": "2026-11-22",
+      "home_team": "Us Sassuolo Calcio",
+      "away_team": "Genoa",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 12,
+      "date": "2026-11-22",
+      "home_team": "Milan",
+      "away_team": "Frosinone Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 12,
+      "date": "2026-11-22",
+      "home_team": "Bologna",
+      "away_team": "Udinese",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 12,
+      "date": "2026-11-22",
+      "home_team": "Atalanta Bc",
+      "away_team": "Inter",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 12,
+      "date": "2026-11-23",
+      "home_team": "Monza",
+      "away_team": "Fiorentina",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 12,
+      "date": "2026-11-23",
+      "home_team": "Juventus Fc",
+      "away_team": "Venezia Fc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 13,
+      "date": "2026-11-29",
+      "home_team": "Us Sassuolo Calcio",
+      "away_team": "Napoli",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 13,
+      "date": "2026-11-29",
+      "home_team": "Cagliari Calcio",
+      "away_team": "Milan",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 13,
+      "date": "2026-11-29",
+      "home_team": "Como",
+      "away_team": "Juventus Fc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 13,
+      "date": "2026-11-29",
+      "home_team": "Roma",
+      "away_team": "Monza",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 13,
+      "date": "2026-11-29",
+      "home_team": "Frosinone Calcio",
+      "away_team": "Parma",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 13,
+      "date": "2026-11-29",
+      "home_team": "Torino",
+      "away_team": "Lazio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 13,
+      "date": "2026-11-29",
+      "home_team": "Venezia Fc",
+      "away_team": "Bologna",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 13,
+      "date": "2026-11-29",
+      "home_team": "Lecce",
+      "away_team": "Atalanta Bc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 13,
+      "date": "2026-11-29",
+      "home_team": "Udinese",
+      "away_team": "Fiorentina",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 13,
+      "date": "2026-11-29",
+      "home_team": "Inter",
+      "away_team": "Genoa",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 14,
+      "date": "2026-12-06",
+      "home_team": "Genoa",
+      "away_team": "Torino",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 14,
+      "date": "2026-12-06",
+      "home_team": "Juventus Fc",
+      "away_team": "Udinese",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 14,
+      "date": "2026-12-06",
+      "home_team": "Frosinone Calcio",
+      "away_team": "Inter",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 14,
+      "date": "2026-12-06",
+      "home_team": "Bologna",
+      "away_team": "Roma",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 14,
+      "date": "2026-12-06",
+      "home_team": "Fiorentina",
+      "away_team": "Cagliari Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 14,
+      "date": "2026-12-06",
+      "home_team": "Lazio",
+      "away_team": "Atalanta Bc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 14,
+      "date": "2026-12-06",
+      "home_team": "Milan",
+      "away_team": "Parma",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 14,
+      "date": "2026-12-06",
+      "home_team": "Venezia Fc",
+      "away_team": "Us Sassuolo Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 14,
+      "date": "2026-12-06",
+      "home_team": "Monza",
+      "away_team": "Como",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 14,
+      "date": "2026-12-06",
+      "home_team": "Napoli",
+      "away_team": "Lecce",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 15,
+      "date": "2026-12-13",
+      "home_team": "Napoli",
+      "away_team": "Milan",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 15,
+      "date": "2026-12-13",
+      "home_team": "Como",
+      "away_team": "Bologna",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 15,
+      "date": "2026-12-13",
+      "home_team": "Udinese",
+      "away_team": "Frosinone Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 15,
+      "date": "2026-12-13",
+      "home_team": "Lecce",
+      "away_team": "Us Sassuolo Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 15,
+      "date": "2026-12-13",
+      "home_team": "Parma",
+      "away_team": "Fiorentina",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 15,
+      "date": "2026-12-13",
+      "home_team": "Cagliari Calcio",
+      "away_team": "Venezia Fc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 15,
+      "date": "2026-12-13",
+      "home_team": "Inter",
+      "away_team": "Torino",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 15,
+      "date": "2026-12-13",
+      "home_team": "Juventus Fc",
+      "away_team": "Monza",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 15,
+      "date": "2026-12-13",
+      "home_team": "Atalanta Bc",
+      "away_team": "Genoa",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 15,
+      "date": "2026-12-13",
+      "home_team": "Lazio",
+      "away_team": "Roma",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 16,
+      "date": "2026-12-20",
+      "home_team": "Milan",
+      "away_team": "Como",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 16,
+      "date": "2026-12-20",
+      "home_team": "Us Sassuolo Calcio",
+      "away_team": "Parma",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 16,
+      "date": "2026-12-20",
+      "home_team": "Roma",
+      "away_team": "Juventus Fc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 16,
+      "date": "2026-12-20",
+      "home_team": "Frosinone Calcio",
+      "away_team": "Lazio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 16,
+      "date": "2026-12-20",
+      "home_team": "Atalanta Bc",
+      "away_team": "Napoli",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 16,
+      "date": "2026-12-20",
+      "home_team": "Fiorentina",
+      "away_team": "Bologna",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 16,
+      "date": "2026-12-20",
+      "home_team": "Genoa",
+      "away_team": "Udinese",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 16,
+      "date": "2026-12-20",
+      "home_team": "Lecce",
+      "away_team": "Inter",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 16,
+      "date": "2026-12-20",
+      "home_team": "Torino",
+      "away_team": "Cagliari Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 16,
+      "date": "2026-12-20",
+      "home_team": "Venezia Fc",
+      "away_team": "Monza",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 17,
+      "date": "2027-01-03",
+      "home_team": "Udinese",
+      "away_team": "Atalanta Bc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 17,
+      "date": "2027-01-03",
+      "home_team": "Como",
+      "away_team": "Lecce",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 17,
+      "date": "2027-01-03",
+      "home_team": "Roma",
+      "away_team": "Frosinone Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 17,
+      "date": "2027-01-03",
+      "home_team": "Parma",
+      "away_team": "Napoli",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 17,
+      "date": "2027-01-03",
+      "home_team": "Cagliari Calcio",
+      "away_team": "Genoa",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 17,
+      "date": "2027-01-03",
+      "home_team": "Torino",
+      "away_team": "Venezia Fc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 17,
+      "date": "2027-01-03",
+      "home_team": "Monza",
+      "away_team": "Milan",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 17,
+      "date": "2027-01-03",
+      "home_team": "Inter",
+      "away_team": "Us Sassuolo Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 17,
+      "date": "2027-01-03",
+      "home_team": "Bologna",
+      "away_team": "Juventus Fc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 17,
+      "date": "2027-01-03",
+      "home_team": "Fiorentina",
+      "away_team": "Lazio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 18,
+      "date": "2027-01-06",
+      "home_team": "Frosinone Calcio",
+      "away_team": "Bologna",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 18,
+      "date": "2027-01-06",
+      "home_team": "Us Sassuolo Calcio",
+      "away_team": "Udinese",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 18,
+      "date": "2027-01-06",
+      "home_team": "Genoa",
+      "away_team": "Monza",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 18,
+      "date": "2027-01-06",
+      "home_team": "Venezia Fc",
+      "away_team": "Roma",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 18,
+      "date": "2027-01-06",
+      "home_team": "Napoli",
+      "away_team": "Cagliari Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 18,
+      "date": "2027-01-06",
+      "home_team": "Milan",
+      "away_team": "Fiorentina",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 18,
+      "date": "2027-01-06",
+      "home_team": "Juventus Fc",
+      "away_team": "Torino",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 18,
+      "date": "2027-01-06",
+      "home_team": "Atalanta Bc",
+      "away_team": "Como",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 18,
+      "date": "2027-01-06",
+      "home_team": "Lazio",
+      "away_team": "Inter",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 18,
+      "date": "2027-01-06",
+      "home_team": "Lecce",
+      "away_team": "Parma",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 19,
+      "date": "2027-01-10",
+      "home_team": "Fiorentina",
+      "away_team": "Lecce",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 19,
+      "date": "2027-01-10",
+      "home_team": "Udinese",
+      "away_team": "Napoli",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 19,
+      "date": "2027-01-10",
+      "home_team": "Torino",
+      "away_team": "Atalanta Bc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 19,
+      "date": "2027-01-10",
+      "home_team": "Monza",
+      "away_team": "Frosinone Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 19,
+      "date": "2027-01-10",
+      "home_team": "Inter",
+      "away_team": "Juventus Fc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 19,
+      "date": "2027-01-10",
+      "home_team": "Parma",
+      "away_team": "Venezia Fc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 19,
+      "date": "2027-01-10",
+      "home_team": "Bologna",
+      "away_team": "Genoa",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 19,
+      "date": "2027-01-10",
+      "home_team": "Cagliari Calcio",
+      "away_team": "Us Sassuolo Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 19,
+      "date": "2027-01-10",
+      "home_team": "Como",
+      "away_team": "Lazio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 19,
+      "date": "2027-01-10",
+      "home_team": "Roma",
+      "away_team": "Milan",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 20,
+      "date": "2027-01-17",
+      "home_team": "Milan",
+      "away_team": "Torino",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 20,
+      "date": "2027-01-17",
+      "home_team": "Parma",
+      "away_team": "Inter",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 20,
+      "date": "2027-01-17",
+      "home_team": "Juventus Fc",
+      "away_team": "Genoa",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 20,
+      "date": "2027-01-17",
+      "home_team": "Lecce",
+      "away_team": "Udinese",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 20,
+      "date": "2027-01-17",
+      "home_team": "Cagliari Calcio",
+      "away_team": "Como",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 20,
+      "date": "2027-01-17",
+      "home_team": "Us Sassuolo Calcio",
+      "away_team": "Monza",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 20,
+      "date": "2027-01-17",
+      "home_team": "Napoli",
+      "away_team": "Fiorentina",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 20,
+      "date": "2027-01-17",
+      "home_team": "Lazio",
+      "away_team": "Bologna",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 20,
+      "date": "2027-01-17",
+      "home_team": "Venezia Fc",
+      "away_team": "Frosinone Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 20,
+      "date": "2027-01-17",
+      "home_team": "Atalanta Bc",
+      "away_team": "Roma",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 21,
+      "date": "2027-01-24",
+      "home_team": "Lecce",
+      "away_team": "Torino",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 21,
+      "date": "2027-01-24",
+      "home_team": "Juventus Fc",
+      "away_team": "Cagliari Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 21,
+      "date": "2027-01-24",
+      "home_team": "Inter",
+      "away_team": "Venezia Fc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 21,
+      "date": "2027-01-24",
+      "home_team": "Fiorentina",
+      "away_team": "Us Sassuolo Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 21,
+      "date": "2027-01-24",
+      "home_team": "Frosinone Calcio",
+      "away_team": "Milan",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 21,
+      "date": "2027-01-24",
+      "home_team": "Roma",
+      "away_team": "Udinese",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 21,
+      "date": "2027-01-24",
+      "home_team": "Bologna",
+      "away_team": "Atalanta Bc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 21,
+      "date": "2027-01-24",
+      "home_team": "Genoa",
+      "away_team": "Parma",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 21,
+      "date": "2027-01-24",
+      "home_team": "Como",
+      "away_team": "Napoli",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 21,
+      "date": "2027-01-24",
+      "home_team": "Monza",
+      "away_team": "Lazio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 22,
+      "date": "2027-01-31",
+      "home_team": "Milan",
+      "away_team": "Juventus Fc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 22,
+      "date": "2027-01-31",
+      "home_team": "Monza",
+      "away_team": "Roma",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 22,
+      "date": "2027-01-31",
+      "home_team": "Torino",
+      "away_team": "Frosinone Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 22,
+      "date": "2027-01-31",
+      "home_team": "Udinese",
+      "away_team": "Bologna",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 22,
+      "date": "2027-01-31",
+      "home_team": "Us Sassuolo Calcio",
+      "away_team": "Como",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 22,
+      "date": "2027-01-31",
+      "home_team": "Genoa",
+      "away_team": "Lecce",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 22,
+      "date": "2027-01-31",
+      "home_team": "Cagliari Calcio",
+      "away_team": "Parma",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 22,
+      "date": "2027-01-31",
+      "home_team": "Atalanta Bc",
+      "away_team": "Fiorentina",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 22,
+      "date": "2027-01-31",
+      "home_team": "Lazio",
+      "away_team": "Venezia Fc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 22,
+      "date": "2027-01-31",
+      "home_team": "Napoli",
+      "away_team": "Inter",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 23,
+      "date": "2027-02-07",
+      "home_team": "Juventus Fc",
+      "away_team": "Us Sassuolo Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 23,
+      "date": "2027-02-07",
+      "home_team": "Inter",
+      "away_team": "Cagliari Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 23,
+      "date": "2027-02-07",
+      "home_team": "Como",
+      "away_team": "Monza",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 23,
+      "date": "2027-02-07",
+      "home_team": "Lecce",
+      "away_team": "Napoli",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 23,
+      "date": "2027-02-07",
+      "home_team": "Venezia Fc",
+      "away_team": "Genoa",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 23,
+      "date": "2027-02-07",
+      "home_team": "Roma",
+      "away_team": "Torino",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 23,
+      "date": "2027-02-07",
+      "home_team": "Atalanta Bc",
+      "away_team": "Lazio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 23,
+      "date": "2027-02-07",
+      "home_team": "Parma",
+      "away_team": "Frosinone Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 23,
+      "date": "2027-02-07",
+      "home_team": "Bologna",
+      "away_team": "Milan",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 23,
+      "date": "2027-02-07",
+      "home_team": "Fiorentina",
+      "away_team": "Udinese",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 24,
+      "date": "2027-02-14",
+      "home_team": "Napoli",
+      "away_team": "Juventus Fc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 24,
+      "date": "2027-02-14",
+      "home_team": "Monza",
+      "away_team": "Lecce",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 24,
+      "date": "2027-02-14",
+      "home_team": "Torino",
+      "away_team": "Us Sassuolo Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 24,
+      "date": "2027-02-14",
+      "home_team": "Frosinone Calcio",
+      "away_team": "Fiorentina",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 24,
+      "date": "2027-02-14",
+      "home_team": "Bologna",
+      "away_team": "Como",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 24,
+      "date": "2027-02-14",
+      "home_team": "Roma",
+      "away_team": "Parma",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 24,
+      "date": "2027-02-14",
+      "home_team": "Udinese",
+      "away_team": "Venezia Fc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 24,
+      "date": "2027-02-14",
+      "home_team": "Genoa",
+      "away_team": "Atalanta Bc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 24,
+      "date": "2027-02-14",
+      "home_team": "Cagliari Calcio",
+      "away_team": "Lazio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 24,
+      "date": "2027-02-14",
+      "home_team": "Inter",
+      "away_team": "Milan",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 25,
+      "date": "2027-02-21",
+      "home_team": "Como",
+      "away_team": "Torino",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 25,
+      "date": "2027-02-21",
+      "home_team": "Atalanta Bc",
+      "away_team": "Monza",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 25,
+      "date": "2027-02-21",
+      "home_team": "Udinese",
+      "away_team": "Parma",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 25,
+      "date": "2027-02-21",
+      "home_team": "Juventus Fc",
+      "away_team": "Bologna",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 25,
+      "date": "2027-02-21",
+      "home_team": "Fiorentina",
+      "away_team": "Inter",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 25,
+      "date": "2027-02-21",
+      "home_team": "Us Sassuolo Calcio",
+      "away_team": "Roma",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 25,
+      "date": "2027-02-21",
+      "home_team": "Milan",
+      "away_team": "Genoa",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 25,
+      "date": "2027-02-21",
+      "home_team": "Venezia Fc",
+      "away_team": "Cagliari Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 25,
+      "date": "2027-02-21",
+      "home_team": "Lecce",
+      "away_team": "Frosinone Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 25,
+      "date": "2027-02-21",
+      "home_team": "Lazio",
+      "away_team": "Napoli",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 26,
+      "date": "2027-02-28",
+      "home_team": "Inter",
+      "away_team": "Atalanta Bc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 26,
+      "date": "2027-02-28",
+      "home_team": "Cagliari Calcio",
+      "away_team": "Udinese",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 26,
+      "date": "2027-02-28",
+      "home_team": "Parma",
+      "away_team": "Us Sassuolo Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 26,
+      "date": "2027-02-28",
+      "home_team": "Genoa",
+      "away_team": "Lazio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 26,
+      "date": "2027-02-28",
+      "home_team": "Roma",
+      "away_team": "Venezia Fc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 26,
+      "date": "2027-02-28",
+      "home_team": "Como",
+      "away_team": "Milan",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 26,
+      "date": "2027-02-28",
+      "home_team": "Torino",
+      "away_team": "Fiorentina",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 26,
+      "date": "2027-02-28",
+      "home_team": "Bologna",
+      "away_team": "Lecce",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 26,
+      "date": "2027-02-28",
+      "home_team": "Monza",
+      "away_team": "Juventus Fc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 26,
+      "date": "2027-02-28",
+      "home_team": "Frosinone Calcio",
+      "away_team": "Napoli",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 27,
+      "date": "2027-03-07",
+      "home_team": "Udinese",
+      "away_team": "Inter",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 27,
+      "date": "2027-03-07",
+      "home_team": "Atalanta Bc",
+      "away_team": "Torino",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 27,
+      "date": "2027-03-07",
+      "home_team": "Napoli",
+      "away_team": "Parma",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 27,
+      "date": "2027-03-07",
+      "home_team": "Lecce",
+      "away_team": "Como",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 27,
+      "date": "2027-03-07",
+      "home_team": "Lazio",
+      "away_team": "Frosinone Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 27,
+      "date": "2027-03-07",
+      "home_team": "Us Sassuolo Calcio",
+      "away_team": "Bologna",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 27,
+      "date": "2027-03-07",
+      "home_team": "Monza",
+      "away_team": "Genoa",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 27,
+      "date": "2027-03-07",
+      "home_team": "Fiorentina",
+      "away_team": "Venezia Fc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 27,
+      "date": "2027-03-07",
+      "home_team": "Milan",
+      "away_team": "Cagliari Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 27,
+      "date": "2027-03-07",
+      "home_team": "Juventus Fc",
+      "away_team": "Roma",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 28,
+      "date": "2027-03-14",
+      "home_team": "Bologna",
+      "away_team": "Napoli",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 28,
+      "date": "2027-03-14",
+      "home_team": "Cagliari Calcio",
+      "away_team": "Fiorentina",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 28,
+      "date": "2027-03-14",
+      "home_team": "Milan",
+      "away_team": "Us Sassuolo Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 28,
+      "date": "2027-03-14",
+      "home_team": "Genoa",
+      "away_team": "Roma",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 28,
+      "date": "2027-03-14",
+      "home_team": "Parma",
+      "away_team": "Lecce",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 28,
+      "date": "2027-03-14",
+      "home_team": "Torino",
+      "away_team": "Inter",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 28,
+      "date": "2027-03-14",
+      "home_team": "Frosinone Calcio",
+      "away_team": "Monza",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 28,
+      "date": "2027-03-14",
+      "home_team": "Como",
+      "away_team": "Udinese",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 28,
+      "date": "2027-03-14",
+      "home_team": "Lazio",
+      "away_team": "Juventus Fc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 28,
+      "date": "2027-03-14",
+      "home_team": "Venezia Fc",
+      "away_team": "Atalanta Bc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 29,
+      "date": "2027-03-21",
+      "home_team": "Napoli",
+      "away_team": "Venezia Fc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 29,
+      "date": "2027-03-21",
+      "home_team": "Udinese",
+      "away_team": "Torino",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 29,
+      "date": "2027-03-21",
+      "home_team": "Juventus Fc",
+      "away_team": "Como",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 29,
+      "date": "2027-03-21",
+      "home_team": "Fiorentina",
+      "away_team": "Genoa",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 29,
+      "date": "2027-03-21",
+      "home_team": "Parma",
+      "away_team": "Lazio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 29,
+      "date": "2027-03-21",
+      "home_team": "Us Sassuolo Calcio",
+      "away_team": "Cagliari Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 29,
+      "date": "2027-03-21",
+      "home_team": "Monza",
+      "away_team": "Bologna",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 29,
+      "date": "2027-03-21",
+      "home_team": "Inter",
+      "away_team": "Frosinone Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 29,
+      "date": "2027-03-21",
+      "home_team": "Roma",
+      "away_team": "Lecce",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 29,
+      "date": "2027-03-21",
+      "home_team": "Atalanta Bc",
+      "away_team": "Milan",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 30,
+      "date": "2027-04-04",
+      "home_team": "Lecce",
+      "away_team": "Lazio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 30,
+      "date": "2027-04-04",
+      "home_team": "Cagliari Calcio",
+      "away_team": "Napoli",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 30,
+      "date": "2027-04-04",
+      "home_team": "Como",
+      "away_team": "Fiorentina",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 30,
+      "date": "2027-04-04",
+      "home_team": "Us Sassuolo Calcio",
+      "away_team": "Atalanta Bc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 30,
+      "date": "2027-04-04",
+      "home_team": "Roma",
+      "away_team": "Bologna",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 30,
+      "date": "2027-04-04",
+      "home_team": "Milan",
+      "away_team": "Monza",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 30,
+      "date": "2027-04-04",
+      "home_team": "Genoa",
+      "away_team": "Inter",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 30,
+      "date": "2027-04-04",
+      "home_team": "Torino",
+      "away_team": "Juventus Fc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 30,
+      "date": "2027-04-04",
+      "home_team": "Venezia Fc",
+      "away_team": "Parma",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 30,
+      "date": "2027-04-04",
+      "home_team": "Frosinone Calcio",
+      "away_team": "Udinese",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 31,
+      "date": "2027-04-11",
+      "home_team": "Juventus Fc",
+      "away_team": "Lecce",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 31,
+      "date": "2027-04-11",
+      "home_team": "Napoli",
+      "away_team": "Us Sassuolo Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 31,
+      "date": "2027-04-11",
+      "home_team": "Fiorentina",
+      "away_team": "Milan",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 31,
+      "date": "2027-04-11",
+      "home_team": "Lazio",
+      "away_team": "Torino",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 31,
+      "date": "2027-04-11",
+      "home_team": "Cagliari Calcio",
+      "away_team": "Atalanta Bc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 31,
+      "date": "2027-04-11",
+      "home_team": "Parma",
+      "away_team": "Como",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 31,
+      "date": "2027-04-11",
+      "home_team": "Bologna",
+      "away_team": "Venezia Fc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 31,
+      "date": "2027-04-11",
+      "home_team": "Frosinone Calcio",
+      "away_team": "Genoa",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 31,
+      "date": "2027-04-11",
+      "home_team": "Inter",
+      "away_team": "Roma",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 31,
+      "date": "2027-04-11",
+      "home_team": "Udinese",
+      "away_team": "Monza",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 32,
+      "date": "2027-04-18",
+      "home_team": "Monza",
+      "away_team": "Inter",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 32,
+      "date": "2027-04-18",
+      "home_team": "Fiorentina",
+      "away_team": "Parma",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 32,
+      "date": "2027-04-18",
+      "home_team": "Roma",
+      "away_team": "Lazio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 32,
+      "date": "2027-04-18",
+      "home_team": "Como",
+      "away_team": "Frosinone Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 32,
+      "date": "2027-04-18",
+      "home_team": "Us Sassuolo Calcio",
+      "away_team": "Lecce",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 32,
+      "date": "2027-04-18",
+      "home_team": "Bologna",
+      "away_team": "Cagliari Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 32,
+      "date": "2027-04-18",
+      "home_team": "Atalanta Bc",
+      "away_team": "Udinese",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 32,
+      "date": "2027-04-18",
+      "home_team": "Venezia Fc",
+      "away_team": "Juventus Fc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 32,
+      "date": "2027-04-18",
+      "home_team": "Milan",
+      "away_team": "Napoli",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 32,
+      "date": "2027-04-18",
+      "home_team": "Torino",
+      "away_team": "Genoa",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 33,
+      "date": "2027-04-25",
+      "home_team": "Frosinone Calcio",
+      "away_team": "Roma",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 33,
+      "date": "2027-04-25",
+      "home_team": "Cagliari Calcio",
+      "away_team": "Monza",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 33,
+      "date": "2027-04-25",
+      "home_team": "Napoli",
+      "away_team": "Udinese",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 33,
+      "date": "2027-04-25",
+      "home_team": "Parma",
+      "away_team": "Atalanta Bc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 33,
+      "date": "2027-04-25",
+      "home_team": "Lazio",
+      "away_team": "Como",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 33,
+      "date": "2027-04-25",
+      "home_team": "Juventus Fc",
+      "away_team": "Fiorentina",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 33,
+      "date": "2027-04-25",
+      "home_team": "Genoa",
+      "away_team": "Us Sassuolo Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 33,
+      "date": "2027-04-25",
+      "home_team": "Lecce",
+      "away_team": "Milan",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 33,
+      "date": "2027-04-25",
+      "home_team": "Venezia Fc",
+      "away_team": "Torino",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 33,
+      "date": "2027-04-25",
+      "home_team": "Inter",
+      "away_team": "Bologna",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 34,
+      "date": "2027-05-02",
+      "home_team": "Atalanta Bc",
+      "away_team": "Juventus Fc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 34,
+      "date": "2027-05-02",
+      "home_team": "Torino",
+      "away_team": "Parma",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 34,
+      "date": "2027-05-02",
+      "home_team": "Milan",
+      "away_team": "Lazio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 34,
+      "date": "2027-05-02",
+      "home_team": "Udinese",
+      "away_team": "Genoa",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 34,
+      "date": "2027-05-02",
+      "home_team": "Us Sassuolo Calcio",
+      "away_team": "Frosinone Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 34,
+      "date": "2027-05-02",
+      "home_team": "Bologna",
+      "away_team": "Fiorentina",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 34,
+      "date": "2027-05-02",
+      "home_team": "Como",
+      "away_team": "Inter",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 34,
+      "date": "2027-05-02",
+      "home_team": "Monza",
+      "away_team": "Venezia Fc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 34,
+      "date": "2027-05-02",
+      "home_team": "Lecce",
+      "away_team": "Cagliari Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 34,
+      "date": "2027-05-02",
+      "home_team": "Roma",
+      "away_team": "Napoli",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 35,
+      "date": "2027-05-09",
+      "home_team": "Parma",
+      "away_team": "Milan",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 35,
+      "date": "2027-05-09",
+      "home_team": "Genoa",
+      "away_team": "Cagliari Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 35,
+      "date": "2027-05-09",
+      "home_team": "Lazio",
+      "away_team": "Us Sassuolo Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 35,
+      "date": "2027-05-09",
+      "home_team": "Napoli",
+      "away_team": "Monza",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 35,
+      "date": "2027-05-09",
+      "home_team": "Inter",
+      "away_team": "Lecce",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 35,
+      "date": "2027-05-09",
+      "home_team": "Venezia Fc",
+      "away_team": "Como",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 35,
+      "date": "2027-05-09",
+      "home_team": "Udinese",
+      "away_team": "Juventus Fc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 35,
+      "date": "2027-05-09",
+      "home_team": "Torino",
+      "away_team": "Bologna",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 35,
+      "date": "2027-05-09",
+      "home_team": "Frosinone Calcio",
+      "away_team": "Atalanta Bc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 35,
+      "date": "2027-05-09",
+      "home_team": "Fiorentina",
+      "away_team": "Roma",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 36,
+      "date": "2027-05-16",
+      "home_team": "Napoli",
+      "away_team": "Genoa",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 36,
+      "date": "2027-05-16",
+      "home_team": "Lecce",
+      "away_team": "Fiorentina",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 36,
+      "date": "2027-05-16",
+      "home_team": "Lazio",
+      "away_team": "Udinese",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 36,
+      "date": "2027-05-16",
+      "home_team": "Bologna",
+      "away_team": "Frosinone Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 36,
+      "date": "2027-05-16",
+      "home_team": "Como",
+      "away_team": "Atalanta Bc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 36,
+      "date": "2027-05-16",
+      "home_team": "Juventus Fc",
+      "away_team": "Inter",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 36,
+      "date": "2027-05-16",
+      "home_team": "Us Sassuolo Calcio",
+      "away_team": "Venezia Fc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 36,
+      "date": "2027-05-16",
+      "home_team": "Monza",
+      "away_team": "Parma",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 36,
+      "date": "2027-05-16",
+      "home_team": "Milan",
+      "away_team": "Roma",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 36,
+      "date": "2027-05-16",
+      "home_team": "Cagliari Calcio",
+      "away_team": "Torino",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 37,
+      "date": "2027-05-23",
+      "home_team": "Roma",
+      "away_team": "Como",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 37,
+      "date": "2027-05-23",
+      "home_team": "Parma",
+      "away_team": "Juventus Fc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 37,
+      "date": "2027-05-23",
+      "home_team": "Torino",
+      "away_team": "Napoli",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 37,
+      "date": "2027-05-23",
+      "home_team": "Atalanta Bc",
+      "away_team": "Lecce",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 37,
+      "date": "2027-05-23",
+      "home_team": "Inter",
+      "away_team": "Lazio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 37,
+      "date": "2027-05-23",
+      "home_team": "Udinese",
+      "away_team": "Us Sassuolo Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 37,
+      "date": "2027-05-23",
+      "home_team": "Frosinone Calcio",
+      "away_team": "Cagliari Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 37,
+      "date": "2027-05-23",
+      "home_team": "Fiorentina",
+      "away_team": "Monza",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 37,
+      "date": "2027-05-23",
+      "home_team": "Venezia Fc",
+      "away_team": "Milan",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 37,
+      "date": "2027-05-23",
+      "home_team": "Genoa",
+      "away_team": "Bologna",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 38,
+      "date": "2027-05-30",
+      "home_team": "Milan",
+      "away_team": "Udinese",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 38,
+      "date": "2027-05-30",
+      "home_team": "Juventus Fc",
+      "away_team": "Frosinone Calcio",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 38,
+      "date": "2027-05-30",
+      "home_team": "Monza",
+      "away_team": "Torino",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 38,
+      "date": "2027-05-30",
+      "home_team": "Us Sassuolo Calcio",
+      "away_team": "Inter",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 38,
+      "date": "2027-05-30",
+      "home_team": "Cagliari Calcio",
+      "away_team": "Roma",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 38,
+      "date": "2027-05-30",
+      "home_team": "Lazio",
+      "away_team": "Fiorentina",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 38,
+      "date": "2027-05-30",
+      "home_team": "Como",
+      "away_team": "Genoa",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 38,
+      "date": "2027-05-30",
+      "home_team": "Napoli",
+      "away_team": "Atalanta Bc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 38,
+      "date": "2027-05-30",
+      "home_team": "Lecce",
+      "away_team": "Venezia Fc",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    },
+    {
+      "matchday": 38,
+      "date": "2027-05-30",
+      "home_team": "Bologna",
+      "away_team": "Parma",
+      "home_goals": null,
+      "away_goals": null,
+      "played": false
+    }
+  ]
+}

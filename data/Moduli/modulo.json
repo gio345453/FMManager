@@ -1,0 +1,82 @@
+[
+    {
+        "squadra": "Inter",
+        "modulo": "3-5-2"
+    },
+    {
+        "squadra": "Monza",
+        "modulo": "3-4-2-1"
+    },
+    {
+        "squadra": "Udinese",
+        "modulo": "3-5-1-1"
+    },
+    {
+        "squadra": "Como",
+        "modulo": "4-2-3-1"
+    },
+    {
+        "squadra": "Genoa",
+        "modulo": "3-4-2-1"
+    },
+    {
+        "squadra": "Napoli",
+        "modulo": "4-3-3"
+    },
+    {
+        "squadra": "Parma",
+        "modulo": "4-3-3"
+    },
+    {
+        "squadra": "Cagliari",
+        "modulo": "4-3-1-2"
+    },
+    {
+        "squadra": "Frosinone",
+        "modulo": "4-3-3"
+    },
+    {
+        "squadra": "Juventus",
+        "modulo": "4-2-3-1"
+    },
+    {
+        "squadra": "Venezia",
+        "modulo": "3-5-2"
+    },
+    {
+        "squadra": "Lecce",
+        "modulo": "4-3-3"
+    },
+    {
+        "squadra": "Atalanta",
+        "modulo": "4-3-3"
+    },
+    {
+        "squadra": "Sassuolo",
+        "modulo": "4-2-3-1"
+    },
+    {
+        "squadra": "Torino",
+        "modulo": "3-4-2-1"
+    },
+    {
+        "squadra": "Milan",
+        "modulo": "3-4-2-1"
+    },
+    {
+        "squadra": "Bologna",
+        "modulo": "4-2-3-1"
+    },
+    {
+        "squadra": "Lazio",
+        "modulo": "4-3-3"
+    },
+    {
+        "squadra": "Roma",
+        "modulo": "3-4-2-1"
+    },
+    {
+        "squadra": "Fiorentina",
+        "modulo": "4-3-3"
+    }
+]

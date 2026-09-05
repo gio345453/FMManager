@@ -1,0 +1,1445 @@
+{
+  "schema_version": 3,
+  "formula": {
+    "recent_production_weight": 0.4,
+    "department_weight": 0.3,
+    "rank_weight": 0.2,
+    "long_history_weight": 0.1,
+    "recent_metric": "goals_per_game_relative_to_same_season_serie_a_average",
+    "defense_metric": "inverse_goals_conceded_per_game_relative_to_same_season_serie_a_average"
+  },
+  "teams": {
+    "Inter": {
+      "attack": 9.7,
+      "defense": 8.7,
+      "midfield": 8.3,
+      "overall": 9.2,
+      "components": {
+        "recent_attack": 10.0,
+        "recent_defense": 7.366,
+        "historical_attack": 9.047,
+        "historical_defense": 9.196,
+        "department_attack": 9.2,
+        "department_defense": 9.4,
+        "rank": 10.0,
+        "recent_season": "2025-26",
+        "recent_source_quality": "season_standings",
+        "historical_attack_weights": [
+          {
+            "season": "2024-25",
+            "weight": 0.7059
+          },
+          {
+            "season": "2023-24",
+            "weight": 0.2941
+          }
+        ],
+        "historical_defense_weights": [
+          {
+            "season": "2024-25",
+            "weight": 0.7059
+          },
+          {
+            "season": "2023-24",
+            "weight": 0.2941
+          }
+        ]
+      },
+      "effective_weights": {
+        "attack": {
+          "recent_production": 0.4,
+          "department": 0.3,
+          "previous_rank": 0.2,
+          "long_history": 0.1
+        },
+        "defense": {
+          "recent_production": 0.4,
+          "department": 0.3,
+          "previous_rank": 0.2,
+          "long_history": 0.1
+        }
+      },
+      "missing_components": {
+        "attack": [],
+        "defense": []
+      },
+      "previous_rank": 1,
+      "rank_participants": 20,
+      "rank_strength": 10.0,
+      "strength_source": "previous_serie_a",
+      "is_promoted": false
+    },
+    "Roma": {
+      "attack": 6.0,
+      "defense": 8.1,
+      "midfield": 5.2,
+      "overall": 7.0,
+      "components": {
+        "recent_attack": 5.781,
+        "recent_defense": 9.009,
+        "historical_attack": 5.447,
+        "historical_defense": 3.122,
+        "department_attack": 4.3,
+        "department_defense": 7.8,
+        "rank": 9.053,
+        "recent_season": "2025-26",
+        "recent_source_quality": "season_standings",
+        "historical_attack_weights": [
+          {
+            "season": "2024-25",
+            "weight": 0.7059
+          },
+          {
+            "season": "2023-24",
+            "weight": 0.2941
+          }
+        ],
+        "historical_defense_weights": [
+          {
+            "season": "2024-25",
+            "weight": 0.7059
+          },
+          {
+            "season": "2023-24",
+            "weight": 0.2941
+          }
+        ]
+      },
+      "effective_weights": {
+        "attack": {
+          "recent_production": 0.4,
+          "department": 0.3,
+          "previous_rank": 0.2,
+          "long_history": 0.1
+        },
+        "defense": {
+          "recent_production": 0.4,
+          "department": 0.3,
+          "previous_rank": 0.2,
+          "long_history": 0.1
+        }
+      },
+      "missing_components": {
+        "attack": [],
+        "defense": []
+      },
+      "previous_rank": 3,
+      "rank_participants": 20,
+      "rank_strength": 9.053,
+      "strength_source": "previous_serie_a",
+      "is_promoted": false
+    },
+    "Juventus": {
+      "attack": 6.1,
+      "defense": 7.6,
+      "midfield": 5.0,
+      "overall": 6.9,
+      "components": {
+        "recent_attack": 6.063,
+        "recent_defense": 7.74,
+        "historical_attack": 3.797,
+        "historical_defense": 9.844,
+        "department_attack": 5.8,
+        "department_defense": 6.8,
+        "rank": 7.632,
+        "recent_season": "2025-26",
+        "recent_source_quality": "season_standings",
+        "historical_attack_weights": [
+          {
+            "season": "2024-25",
+            "weight": 0.7059
+          },
+          {
+            "season": "2023-24",
+            "weight": 0.2941
+          }
+        ],
+        "historical_defense_weights": [
+          {
+            "season": "2024-25",
+            "weight": 0.7059
+          },
+          {
+            "season": "2023-24",
+            "weight": 0.2941
+          }
+        ]
+      },
+      "effective_weights": {
+        "attack": {
+          "recent_production": 0.4,
+          "department": 0.3,
+          "previous_rank": 0.2,
+          "long_history": 0.1
+        },
+        "defense": {
+          "recent_production": 0.4,
+          "department": 0.3,
+          "previous_rank": 0.2,
+          "long_history": 0.1
+        }
+      },
+      "missing_components": {
+        "attack": [],
+        "defense": []
+      },
+      "previous_rank": 6,
+      "rank_participants": 20,
+      "rank_strength": 7.632,
+      "strength_source": "previous_serie_a",
+      "is_promoted": false
+    },
+    "Como": {
+      "attack": 5.5,
+      "defense": 8.1,
+      "midfield": 7.2,
+      "overall": 6.8,
+      "components": {
+        "recent_attack": 6.625,
+        "recent_defense": 10.0,
+        "historical_attack": 2.8,
+        "historical_defense": 1.448,
+        "department_attack": 2.8,
+        "department_defense": 7.6,
+        "rank": 8.579,
+        "recent_season": "2025-26",
+        "recent_source_quality": "season_standings",
+        "historical_attack_weights": [
+          {
+            "season": "2024-25",
+            "weight": 1.0
+          }
+        ],
+        "historical_defense_weights": [
+          {
+            "season": "2024-25",
+            "weight": 1.0
+          }
+        ]
+      },
+      "effective_weights": {
+        "attack": {
+          "recent_production": 0.4,
+          "department": 0.3,
+          "previous_rank": 0.2,
+          "long_history": 0.1
+        },
+        "defense": {
+          "recent_production": 0.4,
+          "department": 0.3,
+          "previous_rank": 0.2,
+          "long_history": 0.1
+        }
+      },
+      "missing_components": {
+        "attack": [],
+        "defense": []
+      },
+      "previous_rank": 4,
+      "rank_participants": 20,
+      "rank_strength": 8.579,
+      "strength_source": "previous_serie_a",
+      "is_promoted": false
+    },
+    "Napoli": {
+      "attack": 6.5,
+      "defense": 7.2,
+      "midfield": 6.0,
+      "overall": 6.8,
+      "components": {
+        "recent_attack": 5.641,
+        "recent_defense": 7.012,
+        "historical_attack": 5.491,
+        "historical_defense": 4.259,
+        "department_attack": 5.9,
+        "department_defense": 6.8,
+        "rank": 9.526,
+        "recent_season": "2025-26",
+        "recent_source_quality": "season_standings",
+        "historical_attack_weights": [
+          {
+            "season": "2024-25",
+            "weight": 0.7059
+          },
+          {
+            "season": "2023-24",
+            "weight": 0.2941
+          }
+        ],
+        "historical_defense_weights": [
+          {
+            "season": "2024-25",
+            "weight": 0.7059
+          },
+          {
+            "season": "2023-24",
+            "weight": 0.2941
+          }
+        ]
+      },
+      "effective_weights": {
+        "attack": {
+          "recent_production": 0.4,
+          "department": 0.3,
+          "previous_rank": 0.2,
+          "long_history": 0.1
+        },
+        "defense": {
+          "recent_production": 0.4,
+          "department": 0.3,
+          "previous_rank": 0.2,
+          "long_history": 0.1
+        }
+      },
+      "missing_components": {
+        "attack": [],
+        "defense": []
+      },
+      "previous_rank": 2,
+      "rank_participants": 20,
+      "rank_strength": 9.526,
+      "strength_source": "previous_serie_a",
+      "is_promoted": false
+    },
+    "Milan": {
+      "attack": 5.9,
+      "defense": 7.2,
+      "midfield": 5.2,
+      "overall": 6.5,
+      "components": {
+        "recent_attack": 4.937,
+        "recent_defense": 7.366,
+        "historical_attack": 7.097,
+        "historical_defense": 2.781,
+        "department_attack": 5.2,
+        "department_defense": 7.7,
+        "rank": 8.105,
+        "recent_season": "2025-26",
+        "recent_source_quality": "season_standings",
+        "historical_attack_weights": [
+          {
+            "season": "2024-25",
+            "weight": 0.7059
+          },
+          {
+            "season": "2023-24",
+            "weight": 0.2941
+          }
+        ],
+        "historical_defense_weights": [
+          {
+            "season": "2024-25",
+            "weight": 0.7059
+          },
+          {
+            "season": "2023-24",
+            "weight": 0.2941
+          }
+        ]
+      },
+      "effective_weights": {
+        "attack": {
+          "recent_production": 0.4,
+          "department": 0.3,
+          "previous_rank": 0.2,
+          "long_history": 0.1
+        },
+        "defense": {
+          "recent_production": 0.4,
+          "department": 0.3,
+          "previous_rank": 0.2,
+          "long_history": 0.1
+        }
+      },
+      "missing_components": {
+        "attack": [],
+        "defense": []
+      },
+      "previous_rank": 5,
+      "rank_participants": 20,
+      "rank_strength": 8.105,
+      "strength_source": "previous_serie_a",
+      "is_promoted": false
+    },
+    "Atalanta": {
+      "attack": 5.9,
+      "defense": 6.7,
+      "midfield": 3.9,
+      "overall": 6.3,
+      "components": {
+        "recent_attack": 4.656,
+        "recent_defense": 7.012,
+        "historical_attack": 9.25,
+        "historical_defense": 3.652,
+        "department_attack": 5.6,
+        "department_defense": 7.0,
+        "rank": 7.158,
+        "recent_season": "2025-26",
+        "recent_source_quality": "season_standings",
+        "historical_attack_weights": [
+          {
+            "season": "2024-25",
+            "weight": 0.7059
+          },
+          {
+            "season": "2023-24",
+            "weight": 0.2941
+          }
+        ],
+        "historical_defense_weights": [
+          {
+            "season": "2024-25",
+            "weight": 0.7059
+          },
+          {
+            "season": "2023-24",
+            "weight": 0.2941
+          }
+        ]
+      },
+      "effective_weights": {
+        "attack": {
+          "recent_production": 0.4,
+          "department": 0.3,
+          "previous_rank": 0.2,
+          "long_history": 0.1
+        },
+        "defense": {
+          "recent_production": 0.4,
+          "department": 0.3,
+          "previous_rank": 0.2,
+          "long_history": 0.1
+        }
+      },
+      "missing_components": {
+        "attack": [],
+        "defense": []
+      },
+      "previous_rank": 7,
+      "rank_participants": 20,
+      "rank_strength": 7.158,
+      "strength_source": "previous_serie_a",
+      "is_promoted": false
+    },
+    "Bologna": {
+      "attack": 4.6,
+      "defense": 5.0,
+      "midfield": 2.2,
+      "overall": 4.8,
+      "components": {
+        "recent_attack": 4.375,
+        "recent_defense": 4.321,
+        "historical_attack": 5.279,
+        "historical_defense": 3.555,
+        "department_attack": 3.3,
+        "department_defense": 5.1,
+        "rank": 6.684,
+        "recent_season": "2025-26",
+        "recent_source_quality": "season_standings",
+        "historical_attack_weights": [
+          {
+            "season": "2024-25",
+            "weight": 0.7059
+          },
+          {
+            "season": "2023-24",
+            "weight": 0.2941
+          }
+        ],
+        "historical_defense_weights": [
+          {
+            "season": "2024-25",
+            "weight": 0.7059
+          },
+          {
+            "season": "2023-24",
+            "weight": 0.2941
+          }
+        ]
+      },
+      "effective_weights": {
+        "attack": {
+          "recent_production": 0.4,
+          "department": 0.3,
+          "previous_rank": 0.2,
+          "long_history": 0.1
+        },
+        "defense": {
+          "recent_production": 0.4,
+          "department": 0.3,
+          "previous_rank": 0.2,
+          "long_history": 0.1
+        }
+      },
+      "missing_components": {
+        "attack": [],
+        "defense": []
+      },
+      "previous_rank": 8,
+      "rank_participants": 20,
+      "rank_strength": 6.684,
+      "strength_source": "previous_serie_a",
+      "is_promoted": false
+    },
+    "Lazio": {
+      "attack": 3.7,
+      "defense": 5.9,
+      "midfield": 5.5,
+      "overall": 4.8,
+      "components": {
+        "recent_attack": 3.25,
+        "recent_defense": 5.774,
+        "historical_attack": 6.444,
+        "historical_defense": 3.126,
+        "department_attack": 1.6,
+        "department_defense": 6.9,
+        "rank": 6.211,
+        "recent_season": "2025-26",
+        "recent_source_quality": "season_standings",
+        "historical_attack_weights": [
+          {
+            "season": "2024-25",
+            "weight": 0.7059
+          },
+          {
+            "season": "2023-24",
+            "weight": 0.2941
+          }
+        ],
+        "historical_defense_weights": [
+          {
+            "season": "2024-25",
+            "weight": 0.7059
+          },
+          {
+            "season": "2023-24",
+            "weight": 0.2941
+          }
+        ]
+      },
+      "effective_weights": {
+        "attack": {
+          "recent_production": 0.4,
+          "department": 0.3,
+          "previous_rank": 0.2,
+          "long_history": 0.1
+        },
+        "defense": {
+          "recent_production": 0.4,
+          "department": 0.3,
+          "previous_rank": 0.2,
+          "long_history": 0.1
+        }
+      },
+      "missing_components": {
+        "attack": [],
+        "defense": []
+      },
+      "previous_rank": 9,
+      "rank_participants": 20,
+      "rank_strength": 6.211,
+      "strength_source": "previous_serie_a",
+      "is_promoted": false
+    },
+    "Sassuolo": {
+      "attack": 4.9,
+      "defense": 4.3,
+      "midfield": 2.8,
+      "overall": 4.6,
+      "components": {
+        "recent_attack": 3.953,
+        "recent_defense": 3.546,
+        "historical_attack": 2.95,
+        "historical_defense": 1.716,
+        "department_attack": 6.5,
+        "department_defense": 5.4,
+        "rank": 5.263,
+        "recent_season": "2025-26",
+        "recent_source_quality": "season_standings",
+        "historical_attack_weights": [
+          {
+            "season": "2023-24",
+            "weight": 1.0
+          }
+        ],
+        "historical_defense_weights": [
+          {
+            "season": "2023-24",
+            "weight": 1.0
+          }
+        ]
+      },
+      "effective_weights": {
+        "attack": {
+          "recent_production": 0.4,
+          "department": 0.3,
+          "previous_rank": 0.2,
+          "long_history": 0.1
+        },
+        "defense": {
+          "recent_production": 0.4,
+          "department": 0.3,
+          "previous_rank": 0.2,
+          "long_history": 0.1
+        }
+      },
+      "missing_components": {
+        "attack": [],
+        "defense": []
+      },
+      "previous_rank": 11,
+      "rank_participants": 20,
+      "rank_strength": 5.263,
+      "strength_source": "previous_serie_a",
+      "is_promoted": false
+    },
+    "Frosinone": {
+      "attack": 4.5,
+      "defense": 4.2,
+      "midfield": 5.0,
+      "overall": 4.3,
+      "components": {
+        "recent_attack": null,
+        "recent_defense": null,
+        "historical_attack": 2.95,
+        "historical_defense": 1.716,
+        "department_attack": 5.0,
+        "department_defense": 5.0,
+        "rank": null,
+        "recent_season": null,
+        "recent_source_quality": "missing",
+        "historical_attack_weights": [
+          {
+            "season": "2023-24",
+            "weight": 1.0
+          }
+        ],
+        "historical_defense_weights": [
+          {
+            "season": "2023-24",
+            "weight": 1.0
+          }
+        ]
+      },
+      "effective_weights": {
+        "attack": {
+          "department": 0.75,
+          "long_history": 0.25
+        },
+        "defense": {
+          "department": 0.75,
+          "long_history": 0.25
+        }
+      },
+      "missing_components": {
+        "attack": [
+          "recent_production",
+          "previous_rank"
+        ],
+        "defense": [
+          "recent_production",
+          "previous_rank"
+        ]
+      },
+      "previous_rank": null,
+      "rank_participants": null,
+      "rank_strength": null,
+      "strength_source": "missing_previous_serie_a",
+      "is_promoted": true
+    },
+    "Monza": {
+      "attack": 4.3,
+      "defense": 4.2,
+      "midfield": 5.0,
+      "overall": 4.3,
+      "components": {
+        "recent_attack": null,
+        "recent_defense": null,
+        "historical_attack": 2.209,
+        "historical_defense": 1.935,
+        "department_attack": 5.0,
+        "department_defense": 5.0,
+        "rank": null,
+        "recent_season": null,
+        "recent_source_quality": "missing",
+        "historical_attack_weights": [
+          {
+            "season": "2024-25",
+            "weight": 0.7059
+          },
+          {
+            "season": "2023-24",
+            "weight": 0.2941
+          }
+        ],
+        "historical_defense_weights": [
+          {
+            "season": "2024-25",
+            "weight": 0.7059
+          },
+          {
+            "season": "2023-24",
+            "weight": 0.2941
+          }
+        ]
+      },
+      "effective_weights": {
+        "attack": {
+          "department": 0.75,
+          "long_history": 0.25
+        },
+        "defense": {
+          "department": 0.75,
+          "long_history": 0.25
+        }
+      },
+      "missing_components": {
+        "attack": [
+          "recent_production",
+          "previous_rank"
+        ],
+        "defense": [
+          "recent_production",
+          "previous_rank"
+        ]
+      },
+      "previous_rank": null,
+      "rank_participants": null,
+      "rank_strength": null,
+      "strength_source": "missing_previous_serie_a",
+      "is_promoted": true
+    },
+    "Udinese": {
+      "attack": 4.2,
+      "defense": 4.5,
+      "midfield": 6.7,
+      "overall": 4.3,
+      "components": {
+        "recent_attack": 3.812,
+        "recent_defense": 3.918,
+        "historical_attack": 2.579,
+        "historical_defense": 1.822,
+        "department_attack": 4.2,
+        "department_defense": 5.3,
+        "rank": 5.737,
+        "recent_season": "2025-26",
+        "recent_source_quality": "season_standings",
+        "historical_attack_weights": [
+          {
+            "season": "2024-25",
+            "weight": 0.7059
+          },
+          {
+            "season": "2023-24",
+            "weight": 0.2941
+          }
+        ],
+        "historical_defense_weights": [
+          {
+            "season": "2024-25",
+            "weight": 0.7059
+          },
+          {
+            "season": "2023-24",
+            "weight": 0.2941
+          }
+        ]
+      },
+      "effective_weights": {
+        "attack": {
+          "recent_production": 0.4,
+          "department": 0.3,
+          "previous_rank": 0.2,
+          "long_history": 0.1
+        },
+        "defense": {
+          "recent_production": 0.4,
+          "department": 0.3,
+          "previous_rank": 0.2,
+          "long_history": 0.1
+        }
+      },
+      "missing_components": {
+        "attack": [],
+        "defense": []
+      },
+      "previous_rank": 10,
+      "rank_participants": 20,
+      "rank_strength": 5.737,
+      "strength_source": "previous_serie_a",
+      "is_promoted": false
+    },
+    "Venezia": {
+      "attack": 4.2,
+      "defense": 4.0,
+      "midfield": 5.0,
+      "overall": 4.1,
+      "components": {
+        "recent_attack": null,
+        "recent_defense": null,
+        "historical_attack": 1.75,
+        "historical_defense": 1.0,
+        "department_attack": 5.0,
+        "department_defense": 5.0,
+        "rank": null,
+        "recent_season": null,
+        "recent_source_quality": "missing",
+        "historical_attack_weights": [
+          {
+            "season": "2024-25",
+            "weight": 1.0
+          }
+        ],
+        "historical_defense_weights": [
+          {
+            "season": "2024-25",
+            "weight": 1.0
+          }
+        ]
+      },
+      "effective_weights": {
+        "attack": {
+          "department": 0.75,
+          "long_history": 0.25
+        },
+        "defense": {
+          "department": 0.75,
+          "long_history": 0.25
+        }
+      },
+      "missing_components": {
+        "attack": [
+          "recent_production",
+          "previous_rank"
+        ],
+        "defense": [
+          "recent_production",
+          "previous_rank"
+        ]
+      },
+      "previous_rank": null,
+      "rank_participants": null,
+      "rank_strength": null,
+      "strength_source": "missing_previous_serie_a",
+      "is_promoted": true
+    },
+    "Torino": {
+      "attack": 4.4,
+      "defense": 3.6,
+      "midfield": 6.3,
+      "overall": 4.0,
+      "components": {
+        "recent_attack": 3.672,
+        "recent_defense": 1.707,
+        "historical_attack": 3.426,
+        "historical_defense": 3.749,
+        "department_attack": 5.4,
+        "department_defense": 5.3,
+        "rank": 4.789,
+        "recent_season": "2025-26",
+        "recent_source_quality": "season_standings",
+        "historical_attack_weights": [
+          {
+            "season": "2024-25",
+            "weight": 0.7059
+          },
+          {
+            "season": "2023-24",
+            "weight": 0.2941
+          }
+        ],
+        "historical_defense_weights": [
+          {
+            "season": "2024-25",
+            "weight": 0.7059
+          },
+          {
+            "season": "2023-24",
+            "weight": 0.2941
+          }
+        ]
+      },
+      "effective_weights": {
+        "attack": {
+          "recent_production": 0.4,
+          "department": 0.3,
+          "previous_rank": 0.2,
+          "long_history": 0.1
+        },
+        "defense": {
+          "recent_production": 0.4,
+          "department": 0.3,
+          "previous_rank": 0.2,
+          "long_history": 0.1
+        }
+      },
+      "missing_components": {
+        "attack": [],
+        "defense": []
+      },
+      "previous_rank": 12,
+      "rank_participants": 20,
+      "rank_strength": 4.789,
+      "strength_source": "previous_serie_a",
+      "is_promoted": false
+    },
+    "Fiorentina": {
+      "attack": 3.5,
+      "defense": 4.2,
+      "midfield": 5.3,
+      "overall": 3.8,
+      "components": {
+        "recent_attack": 3.25,
+        "recent_defense": 3.546,
+        "historical_attack": 5.791,
+        "historical_defense": 3.04,
+        "department_attack": 3.1,
+        "department_defense": 6.0,
+        "rank": 3.368,
+        "recent_season": "2025-26",
+        "recent_source_quality": "season_standings",
+        "historical_attack_weights": [
+          {
+            "season": "2024-25",
+            "weight": 0.7059
+          },
+          {
+            "season": "2023-24",
+            "weight": 0.2941
+          }
+        ],
+        "historical_defense_weights": [
+          {
+            "season": "2024-25",
+            "weight": 0.7059
+          },
+          {
+            "season": "2023-24",
+            "weight": 0.2941
+          }
+        ]
+      },
+      "effective_weights": {
+        "attack": {
+          "recent_production": 0.4,
+          "department": 0.3,
+          "previous_rank": 0.2,
+          "long_history": 0.1
+        },
+        "defense": {
+          "recent_production": 0.4,
+          "department": 0.3,
+          "previous_rank": 0.2,
+          "long_history": 0.1
+        }
+      },
+      "missing_components": {
+        "attack": [],
+        "defense": []
+      },
+      "previous_rank": 15,
+      "rank_participants": 20,
+      "rank_strength": 3.368,
+      "strength_source": "previous_serie_a",
+      "is_promoted": false
+    },
+    "Cagliari": {
+      "attack": 3.5,
+      "defense": 3.9,
+      "midfield": 5.7,
+      "overall": 3.7,
+      "components": {
+        "recent_attack": 3.109,
+        "recent_defense": 3.042,
+        "historical_attack": 2.121,
+        "historical_defense": 1.895,
+        "department_attack": 4.2,
+        "department_defense": 5.8,
+        "rank": 3.842,
+        "recent_season": "2025-26",
+        "recent_source_quality": "season_standings",
+        "historical_attack_weights": [
+          {
+            "season": "2024-25",
+            "weight": 0.7059
+          },
+          {
+            "season": "2023-24",
+            "weight": 0.2941
+          }
+        ],
+        "historical_defense_weights": [
+          {
+            "season": "2024-25",
+            "weight": 0.7059
+          },
+          {
+            "season": "2023-24",
+            "weight": 0.2941
+          }
+        ]
+      },
+      "effective_weights": {
+        "attack": {
+          "recent_production": 0.4,
+          "department": 0.3,
+          "previous_rank": 0.2,
+          "long_history": 0.1
+        },
+        "defense": {
+          "recent_production": 0.4,
+          "department": 0.3,
+          "previous_rank": 0.2,
+          "long_history": 0.1
+        }
+      },
+      "missing_components": {
+        "attack": [],
+        "defense": []
+      },
+      "previous_rank": 14,
+      "rank_participants": 20,
+      "rank_strength": 3.842,
+      "strength_source": "previous_serie_a",
+      "is_promoted": false
+    },
+    "Genoa": {
+      "attack": 3.1,
+      "defense": 3.8,
+      "midfield": 5.0,
+      "overall": 3.5,
+      "components": {
+        "recent_attack": 3.25,
+        "recent_defense": 3.372,
+        "historical_attack": 2.509,
+        "historical_defense": 2.275,
+        "department_attack": 3.4,
+        "department_defense": 5.4,
+        "rank": 2.895,
+        "recent_season": "2025-26",
+        "recent_source_quality": "season_standings",
+        "historical_attack_weights": [
+          {
+            "season": "2024-25",
+            "weight": 0.7059
+          },
+          {
+            "season": "2023-24",
+            "weight": 0.2941
+          }
+        ],
+        "historical_defense_weights": [
+          {
+            "season": "2024-25",
+            "weight": 0.7059
+          },
+          {
+            "season": "2023-24",
+            "weight": 0.2941
+          }
+        ]
+      },
+      "effective_weights": {
+        "attack": {
+          "recent_production": 0.4,
+          "department": 0.3,
+          "previous_rank": 0.2,
+          "long_history": 0.1
+        },
+        "defense": {
+          "recent_production": 0.4,
+          "department": 0.3,
+          "previous_rank": 0.2,
+          "long_history": 0.1
+        }
+      },
+      "missing_components": {
+        "attack": [],
+        "defense": []
+      },
+      "previous_rank": 16,
+      "rank_participants": 20,
+      "rank_strength": 2.895,
+      "strength_source": "previous_serie_a",
+      "is_promoted": false
+    },
+    "Parma": {
+      "attack": 2.3,
+      "defense": 4.0,
+      "midfield": 4.3,
+      "overall": 3.2,
+      "components": {
+        "recent_attack": 1.422,
+        "recent_defense": 4.321,
+        "historical_attack": 3.1,
+        "historical_defense": 1.647,
+        "department_attack": 2.0,
+        "department_defense": 4.2,
+        "rank": 4.316,
+        "recent_season": "2025-26",
+        "recent_source_quality": "season_standings",
+        "historical_attack_weights": [
+          {
+            "season": "2024-25",
+            "weight": 1.0
+          }
+        ],
+        "historical_defense_weights": [
+          {
+            "season": "2024-25",
+            "weight": 1.0
+          }
+        ]
+      },
+      "effective_weights": {
+        "attack": {
+          "recent_production": 0.4,
+          "department": 0.3,
+          "previous_rank": 0.2,
+          "long_history": 0.1
+        },
+        "defense": {
+          "recent_production": 0.4,
+          "department": 0.3,
+          "previous_rank": 0.2,
+          "long_history": 0.1
+        }
+      },
+      "missing_components": {
+        "attack": [],
+        "defense": []
+      },
+      "previous_rank": 13,
+      "rank_participants": 20,
+      "rank_strength": 4.316,
+      "strength_source": "previous_serie_a",
+      "is_promoted": false
+    },
+    "Lecce": {
+      "attack": 1.6,
+      "defense": 3.4,
+      "midfield": 1.5,
+      "overall": 2.5,
+      "components": {
+        "recent_attack": 1.422,
+        "recent_defense": 3.546,
+        "historical_attack": 1.132,
+        "historical_defense": 1.682,
+        "department_attack": 1.6,
+        "department_defense": 4.3,
+        "rank": 2.421,
+        "recent_season": "2025-26",
+        "recent_source_quality": "season_standings",
+        "historical_attack_weights": [
+          {
+            "season": "2024-25",
+            "weight": 0.7059
+          },
+          {
+            "season": "2023-24",
+            "weight": 0.2941
+          }
+        ],
+        "historical_defense_weights": [
+          {
+            "season": "2024-25",
+            "weight": 0.7059
+          },
+          {
+            "season": "2023-24",
+            "weight": 0.2941
+          }
+        ]
+      },
+      "effective_weights": {
+        "attack": {
+          "recent_production": 0.4,
+          "department": 0.3,
+          "previous_rank": 0.2,
+          "long_history": 0.1
+        },
+        "defense": {
+          "recent_production": 0.4,
+          "department": 0.3,
+          "previous_rank": 0.2,
+          "long_history": 0.1
+        }
+      },
+      "missing_components": {
+        "attack": [],
+        "defense": []
+      },
+      "previous_rank": 17,
+      "rank_participants": 20,
+      "rank_strength": 2.421,
+      "strength_source": "previous_serie_a",
+      "is_promoted": false
+    },
+    "Empoli": {
+      "attack": 1.8,
+      "defense": 2.6,
+      "midfield": 5.0,
+      "overall": 2.2,
+      "components": {
+        "recent_attack": null,
+        "recent_defense": null,
+        "historical_attack": 1.847,
+        "historical_defense": 2.613,
+        "department_attack": null,
+        "department_defense": null,
+        "rank": null,
+        "recent_season": null,
+        "recent_source_quality": "missing",
+        "historical_attack_weights": [
+          {
+            "season": "2024-25",
+            "weight": 0.7059
+          },
+          {
+            "season": "2023-24",
+            "weight": 0.2941
+          }
+        ],
+        "historical_defense_weights": [
+          {
+            "season": "2024-25",
+            "weight": 0.7059
+          },
+          {
+            "season": "2023-24",
+            "weight": 0.2941
+          }
+        ]
+      },
+      "effective_weights": {
+        "attack": {
+          "long_history": 1.0
+        },
+        "defense": {
+          "long_history": 1.0
+        }
+      },
+      "missing_components": {
+        "attack": [
+          "recent_production",
+          "department",
+          "previous_rank"
+        ],
+        "defense": [
+          "recent_production",
+          "department",
+          "previous_rank"
+        ]
+      },
+      "previous_rank": null,
+      "rank_participants": null,
+      "rank_strength": null,
+      "strength_source": "missing_previous_serie_a",
+      "is_promoted": true
+    },
+    "Cremonese": {
+      "attack": 2.0,
+      "defense": 2.3,
+      "midfield": 5.0,
+      "overall": 2.1,
+      "components": {
+        "recent_attack": 1.984,
+        "recent_defense": 2.452,
+        "historical_attack": null,
+        "historical_defense": null,
+        "department_attack": null,
+        "department_defense": null,
+        "rank": 1.947,
+        "recent_season": "2025-26",
+        "recent_source_quality": "season_standings",
+        "historical_attack_weights": [],
+        "historical_defense_weights": []
+      },
+      "effective_weights": {
+        "attack": {
+          "recent_production": 0.6667,
+          "previous_rank": 0.3333
+        },
+        "defense": {
+          "recent_production": 0.6667,
+          "previous_rank": 0.3333
+        }
+      },
+      "missing_components": {
+        "attack": [
+          "department",
+          "long_history"
+        ],
+        "defense": [
+          "department",
+          "long_history"
+        ]
+      },
+      "previous_rank": 18,
+      "rank_participants": 20,
+      "rank_strength": 1.947,
+      "strength_source": "previous_serie_a",
+      "is_promoted": false
+    },
+    "Verona": {
+      "attack": 1.4,
+      "defense": 1.9,
+      "midfield": 5.0,
+      "overall": 1.6,
+      "components": {
+        "recent_attack": 1.0,
+        "recent_defense": 2.187,
+        "historical_attack": 2.562,
+        "historical_defense": 1.596,
+        "department_attack": null,
+        "department_defense": null,
+        "rank": 1.474,
+        "recent_season": "2025-26",
+        "recent_source_quality": "season_standings",
+        "historical_attack_weights": [
+          {
+            "season": "2024-25",
+            "weight": 0.7059
+          },
+          {
+            "season": "2023-24",
+            "weight": 0.2941
+          }
+        ],
+        "historical_defense_weights": [
+          {
+            "season": "2024-25",
+            "weight": 0.7059
+          },
+          {
+            "season": "2023-24",
+            "weight": 0.2941
+          }
+        ]
+      },
+      "effective_weights": {
+        "attack": {
+          "recent_production": 0.5714,
+          "previous_rank": 0.2857,
+          "long_history": 0.1429
+        },
+        "defense": {
+          "recent_production": 0.5714,
+          "previous_rank": 0.2857,
+          "long_history": 0.1429
+        }
+      },
+      "missing_components": {
+        "attack": [
+          "department"
+        ],
+        "defense": [
+          "department"
+        ]
+      },
+      "previous_rank": 19,
+      "rank_participants": 20,
+      "rank_strength": 1.474,
+      "strength_source": "previous_serie_a",
+      "is_promoted": false
+    },
+    "Salernitana": {
+      "attack": 1.1,
+      "defense": 1.0,
+      "midfield": 5.0,
+      "overall": 1.1,
+      "components": {
+        "recent_attack": null,
+        "recent_defense": null,
+        "historical_attack": 1.15,
+        "historical_defense": 1.0,
+        "department_attack": null,
+        "department_defense": null,
+        "rank": null,
+        "recent_season": null,
+        "recent_source_quality": "missing",
+        "historical_attack_weights": [
+          {
+            "season": "2023-24",
+            "weight": 1.0
+          }
+        ],
+        "historical_defense_weights": [
+          {
+            "season": "2023-24",
+            "weight": 1.0
+          }
+        ]
+      },
+      "effective_weights": {
+        "attack": {
+          "long_history": 1.0
+        },
+        "defense": {
+          "long_history": 1.0
+        }
+      },
+      "missing_components": {
+        "attack": [
+          "recent_production",
+          "department",
+          "previous_rank"
+        ],
+        "defense": [
+          "recent_production",
+          "department",
+          "previous_rank"
+        ]
+      },
+      "previous_rank": null,
+      "rank_participants": null,
+      "rank_strength": null,
+      "strength_source": "missing_previous_serie_a",
+      "is_promoted": true
+    },
+    "Pisa": {
+      "attack": 1.1,
+      "defense": 1.0,
+      "midfield": 5.0,
+      "overall": 1.0,
+      "components": {
+        "recent_attack": 1.141,
+        "recent_defense": 1.0,
+        "historical_attack": null,
+        "historical_defense": null,
+        "department_attack": null,
+        "department_defense": null,
+        "rank": 1.0,
+        "recent_season": "2025-26",
+        "recent_source_quality": "season_standings",
+        "historical_attack_weights": [],
+        "historical_defense_weights": []
+      },
+      "effective_weights": {
+        "attack": {
+          "recent_production": 0.6667,
+          "previous_rank": 0.3333
+        },
+        "defense": {
+          "recent_production": 0.6667,
+          "previous_rank": 0.3333
+        }
+      },
+      "missing_components": {
+        "attack": [
+          "department",
+          "long_history"
+        ],
+        "defense": [
+          "department",
+          "long_history"
+        ]
+      },
+      "previous_rank": 20,
+      "rank_participants": 20,
+      "rank_strength": 1.0,
+      "strength_source": "previous_serie_a",
+      "is_promoted": false
+    }
+  }
+}

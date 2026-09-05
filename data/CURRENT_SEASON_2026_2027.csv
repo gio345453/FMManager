@@ -1,0 +1,521 @@
+Id;R;RM;Nome;Squadra
+5841;P;Por;Svilar;Roma
+5116;P;Por;Martinez Jo.;Inter
+4431;P;Por;Carnesecchi;Atalanta
+6966;P;Por;Butez;Como
+4964;P;Por;Vicario;Juventus
+4312;P;Por;Maignan;Milan
+2521;P;Por;De Gea;Fiorentina
+572;P;Por;Meret;Napoli
+133;P;Por;Skorupski;Bologna
+4360;P;Por;Caprile;Cagliari
+6482;P;Por;Mandas;Lazio
+2134;P;Por;Falcone;Lecce
+6462;P;Por;Okoye;Udinese
+6534;P;Por;Perri;Torino
+7332;P;Por;Bijlow;Genoa
+7411;P;Por;Daffara;Parma
+4236;P;Por;Muric;Sassuolo
+6248;P;Por;Stankovic F.;Venezia
+6415;P;Por;Palmisani;Frosinone
+4485;P;Por;Thiam;Monza
+2170;P;Por;Milinkovic-Savic V.;Napoli
+7463;P;Por;Desplanches;Frosinone
+2814;P;Por;Provedel;Inter
+4;P;Por;Sportiello;Atalanta
+7533;P;Por;Happonen;Bologna
+7172;P;Por;Pessina Mas.;Bologna
+6650;P;Por;Sherri;Cagliari
+7301;P;Por;Tornqvist;Como
+2809;P;Por;Vigorito;Como
+6403;P;Por;Christensen O.;Fiorentina
+158;P;Por;Lezzerini;Fiorentina
+7466;P;Por;Lolic;Frosinone
+219;P;Por;Sommariva;Genoa
+6569;P;Por;Stolz;Genoa
+1926;P;Por;Di Gennaro;Inter
+1930;P;Por;Pinsoglio;Juventus
+7337;P;Por;Motta;Lazio
+7534;P;Por;Renzetti;Lazio
+2815;P;Por;Terracciano;Milan
+6813;P;Por;Torriani;Milan
+7475;P;Por;Strajnar;Monza
+2845;P;Por;Contini;Napoli
+6662;P;Por;Corvi;Parma
+7048;P;Por;De Marzi;Roma
+610;P;Por;Gollini;Roma
+4518;P;Por;Russo A.;Sassuolo
+4867;P;Por;Turati;Sassuolo
+7457;P;Por;Mascardi;Torino
+5320;P;Por;Paleari;Torino
+7363;P;Por;Siviero;Torino
+543;P;Por;Padelli;Udinese
+5707;P;Por;Piana;Udinese
+6671;P;Por;Grandi;Venezia
+7531;P;Por;Pozzi;Venezia
+7545;P;Por;Vismara;Atalanta
+2127;P;Por;Satalino;Sassuolo
+7557;P;Por;Penev;Lecce
+7560;P;Por;Pisseri;Frosinone
+3;P;Por;Radunovic;Cagliari
+4957;P;Por;Montipò;Venezia
+4468;P;Por;Bleve;Lecce
+7603;P;Por;Grabara;Juventus
+7611;P;Por;Mrozek;Udinese
+254;D;"E;W";Dimarco;Inter
+4998;D;E;Molina N.;Roma
+7181;D;E;Wesley;Roma
+4159;D;Dc;Akanji;Inter
+2788;D;Dc;Bremer;Juventus
+2296;D;Dc;Mancini;Roma
+2120;D;Dc;Bastoni;Inter
+5022;D;Dc;Pavlovic;Milan
+4409;D;Dc;Rrahmani;Napoli
+4976;D;"Dd;Dc";Kalulu;Juventus
+4317;D;Dc;N'Dicka;Roma
+6956;D;Dc;Solet;Udinese
+6217;D;Dc;Bisseck;Inter
+2514;D;Dc;Stones;Inter
+5833;D;Dc;Gila;Milan
+2816;D;"Dd;E";Di Lorenzo;Napoli
+5982;D;E;Spence;Inter
+5750;D;Dc;Ostigard;Genoa
+5526;D;Dc;Scalvini;Atalanta
+6869;D;Dc;Ramon;Como
+5885;D;"Dd;E";Dodò;Fiorentina
+4807;D;Dc;Hermoso;Roma
+5514;D;"Ds;Dc";Vasquez;Genoa
+5520;D;"Dd;Ds;E";Cambiaso;Juventus
+6989;D;Dc;Tiago Gabriel;Lecce
+5641;D;"Dd;Dc";Chalobah T.;Como
+6046;D;Dc;Hien;Atalanta
+554;D;"Dd;E";Zappacosta;Atalanta
+6042;D;Dc;Lucumì;Juventus
+4734;D;"Ds;E";Miranda J.;Bologna
+4210;D;Dc;Mina;Cagliari
+6531;D;"Dd;Ds;E";Jimenez A.;Fiorentina
+6814;D;"Dd;E";Norton-Cuffy;Genoa
+4657;D;"B;Dd;E";Celik;Juventus
+6320;D;Dc;Doekhi;Lazio
+6496;D;"Ds;E";Bartesaghi;Milan
+1852;D;"Ds;E";Spinazzola;Napoli
+6664;D;"B;Dd;E";Delprato;Parma
+5862;D;"Ds;E";Valeri;Parma
+7529;D;Dc;Koulierakis;Roma
+4994;D;"Dd;E";Vojvoda;Udinese
+5555;D;"Ds;E";Kamara H.;Udinese
+6727;D;"Dd;E";Couto;Como
+5701;D;"B;Ds;E";Obert;Cagliari
+7414;D;"Ds;E";Kaiki;Como
+5365;D;Dc;Dragusin;Fiorentina
+5877;D;"B;Ds;E";Carlos Augusto;Inter
+460;D;Dc;Romagnoli;Lazio
+4401;D;Dc;Gabbia;Milan
+4751;D;Dc;Tomori;Milan
+2724;D;Dc;Buongiorno;Napoli
+6672;D;Dc;Idzes;Sassuolo
+6642;D;Dc;Coco;Torino
+5010;D;Dc;Ismajli;Torino
+6485;D;"Dd;Dc";Kristensen T.;Atalanta
+4664;D;Dc;Badiashile;Napoli
+7580;D;Dc;Sutalo J.;Lazio
+6916;D;"B;Ds;E";Ahanor;Atalanta
+4887;D;"Dd;E";Bellanova;Atalanta
+7219;D;"Ds;E";Bernasconi;Atalanta
+7212;D;"Ds;Dc";Heggem;Bologna
+4433;D;"Dd;E";Zortea;Bologna
+6867;D;"Ds;E";Valle;Como
+7294;D;"Ds;Dc";Valdepenas;Fiorentina
+7410;D;"Ds;Dc";Viery;Fiorentina
+4952;D;Dc;Monterisi;Frosinone
+6660;D;Dc;Marcandalli;Genoa
+4177;D;"Dd;Dc";Pavard;Inter
+5620;D;"Ds;E";Tavares N.;Lazio
+2188;D;"Dd;Ds;E";Marusic;Lazio
+6632;D;Dc;Gaspar K.;Lecce
+6990;D;"Dd;E";Veiga D.;Lecce
+4502;D;"Ds;E";Gallo;Lecce
+7485;D;"Ds;E";Mangas;Monza
+6202;D;Dc;Beukema;Napoli
+6495;D;Dc;Comuzzo;Torino
+7253;D;Dc;Bella-Kotchap;Venezia
+7329;D;"Ds;E";Obrador;Sassuolo
+2640;D;"Ds;Dc";Kolasinac;Atalanta
+7068;D;Dc;Vitik;Bologna
+5678;D;"Dd;E";Holm;Bologna
+7532;D;Dc;Kofler;Cagliari
+7274;D;"Dd;Dc";Zè Pedro;Cagliari
+6893;D;Dc;Kempf;Como
+5449;D;"Ds;E";Parisi;Fiorentina
+7469;D;"Ds;Dc";Bracaglia;Frosinone
+6238;D;"Dd;E";Oyono A.;Frosinone
+2593;D;"Ds;E";Martin;Genoa
+6766;D;"Ds;Dc";Kelly L.;Juventus
+4817;D;"Ds;E";Pedraza;Lazio
+7240;D;Dc;Siebert;Lecce
+5840;D;"B;Ds;E";Olivera;Napoli
+6986;D;"B;Dd;E";Rensch;Roma
+6890;D;Dc;Moreno M.;Venezia
+4845;D;"Dd;E";Correia T.;Venezia
+5695;D;"Ds;E";Haps;Venezia
+7069;D;E;Fortini;Torino
+7564;D;"Ds;Dc";Leysen F.;Sassuolo
+7268;D;"Ds;Dc";Rodriguez Ju.;Cagliari
+7014;D;"Dd;E";Smolcic I.;Como
+5603;D;Dc;Pongracic;Fiorentina
+7467;D;Dc;Calvani;Frosinone
+7537;D;"Ds;E";Mitaj;Genoa
+5831;D;Dc;Gatti;Juventus
+5739;D;"Dd;Dc";De Winter;Milan
+5273;D;"Ds;E";Estupinan;Milan
+2115;D;Dc;Delli Carri;Monza
+6659;D;Dc;Lucchesi;Monza
+5838;D;"Dd;Ds;E";Birindelli;Monza
+7235;D;Dc;Troilo;Parma
+5307;D;Dc;Valenti;Parma
+6631;D;Dc;Ghilardi;Roma
+4374;D;"Dd;Dc";Walukiewicz;Sassuolo
+5851;D;"Ds;E";Doig;Sassuolo
+7526;D;Dc;Comert;Torino
+4263;D;Dc;Kabasele;Udinese
+5820;D;"Dd;Ds;Dc";Bertola;Udinese
+5527;D;"Dd;E";Zanoli;Udinese
+7312;D;"Ds;E";Arizala;Udinese
+7538;D;Dc;Halhal;Venezia
+4375;D;"Ds;E";Terzic;Frosinone
+7563;D;"Dd;Ds;E";Favasuli;Napoli
+5578;D;"Dd;Dc";Kossounou;Atalanta
+5498;D;Dc;Casale;Bologna
+7326;D;"Dd;Dc";Helland;Bologna
+7125;D;"Ds;E";Idrissi R.;Cagliari
+4378;D;"Ds;Dc";Ranieri L.;Fiorentina
+7175;D;"Dd;E";Joao Mario;Fiorentina
+7540;D;Dc;Akpoguma;Frosinone
+5757;D;Dc;Cittadini;Frosinone
+7012;D;Dc;Provstgaard;Lazio
+7131;D;"Dd;E";Floriani Mussolini;Lazio
+7238;D;"Dd;Dc";Kouadio;Monza
+4925;D;"Ds;Dc";Carboni A.;Monza
+7255;D;"Dd;Ds;E";Britschgi;Parma
+6985;D;"Ds;Dc";Candè;Sassuolo
+6925;D;Dc;Palma;Udinese
+5994;D;"Ds;Dc";Ebosse;Udinese
+6892;D;Dc;Schingtienne;Venezia
+6673;D;"Ds;Dc";Sverko;Venezia
+6821;D;"Dd;E";Hainaut;Venezia
+7154;D;Dc;Odenthal;Sassuolo
+7605;D;"Dd;E";Tchato;Frosinone
+6601;D;"Dd;Dc";Kambwala;Como
+7483;D;"Ds;E";Alhassane;Bologna
+6896;D;"Dd;E";Van Der Brempt;Como
+6977;D;Dc;Otoa;Genoa
+7413;D;"Ds;E";Puczka;Genoa
+791;D;"Dd;Ds;E";Sabelli;Genoa
+2263;D;"Dd;E";Lazzari;Lazio
+2728;D;"Ds;E";Pellegrini Lu.;Lazio
+6883;D;Dc;Jean;Lecce
+7182;D;"Ds;E";Ndaba;Lecce
+7525;D;"Ds;Dc";Diawara S.;Milan
+7476;D;"Dd;E";Bakoune;Monza
+6638;D;Dc;Marin R.;Napoli
+7202;D;Dc;Ndiaye;Parma
+252;D;"B;Ds;E";Biraghi;Torino
+6021;D;"Dd;Dc";Abankwah;Udinese
+7478;D;"B;Ds;E";Franjic;Venezia
+6681;D;"Dd;E";Sagrado;Venezia
+7548;D;"Ds;E";Aurelio;Cagliari
+7573;D;"Dd;E";Cinquegrano;Sassuolo
+5812;D;"B;Dd;Ds";Terracciano F.;Milan
+487;D;"Dd;E";De Silvestri;Bologna
+418;D;Dc;Goldaniga;Como
+5424;D;Dc;Amey;Frosinone
+294;D;Dc;Rugani;Juventus
+6039;D;"B;Ds;E";Cabal;Juventus
+327;D;"Dd;Dc";Patric;Lazio
+5399;D;Dc;Antov;Monza
+6809;D;Dc;Marianucci;Napoli
+5481;D;"Dd;Ds;E";Mazzocchi;Napoli
+6149;D;"Ds;E";Carboni F.;Parma
+7260;D;Dc;Ziolkowski;Roma
+6189;D;"Dd;E";Missori;Sassuolo
+7156;D;"Ds;E";Pieragnolo;Sassuolo
+7356;D;Dc;Mlacic;Udinese
+7454;D;"Ds;Dc";Gomes;Venezia
+7553;D;Dc;Omar Fayed;Frosinone
+7396;D;Dc;Macchioni;Sassuolo
+7599;D;E;Lulli;Roma
+7604;D;"Ds;Dc";Maye;Monza
+6875;C;"T;A";Paz N.;Como
+2194;C;"M;C";Calhanoglu;Inter
+4777;C;"C;T";McTominay;Napoli
+2167;C;"W;A";Orsolini;Bologna
+2423;C;"T;A";Pulisic;Milan
+2379;C;"C;T";Rabiot;Milan
+7126;C;T;Baturina;Como
+7556;C;T;Mora;Roma
+5559;C;"C;T";Da Cunha;Como
+2766;C;"T;A";Zaniolo;Udinese
+1870;C;C;Barella;Inter
+4973;C;C;McKennie;Juventus
+6908;C;"C;T";Atta;Fiorentina
+632;C;"W;A";Zaccagni;Lazio
+2517;C;T;De Bruyne;Napoli
+5800;C;"T;A";Gudmundsson A.;Fiorentina
+7314;C;"C;T";Taylor K.;Lazio
+5687;C;T;Vlasic;Torino
+5792;C;"M;C";Ederson D.S.;Atalanta
+5119;C;"C;T";Samardzic;Atalanta
+7129;C;"W;A";Rodriguez Je.;Como
+7436;C;"W;T";Alajbegovic;Juventus
+6884;C;"W;A";Conceicao;Juventus
+2606;C;"M;C";Modric;Milan
+7078;C;"W;T";Mastantuono;Fiorentina
+6372;C;W;Moreira;Milan
+5172;C;C;Jones C.;Inter
+1850;C;C;Kessiè;Atalanta
+6844;C;"W;T";Rowe;Bologna
+5823;C;T;Baldanzi;Genoa
+152;C;C;Zielinski;Inter
+4220;C;C;Zambo Anguissa;Napoli
+6684;C;"C;T";Ekkelenkamp;Udinese
+6151;C;"M;C";Perrone;Como
+5562;C;C;Thuram K.;Juventus
+4892;C;"E;W";Saelemaekers;Milan
+536;C;W;Politano;Napoli
+7223;C;"W;T";Vergara;Napoli
+5589;C;"M;C";Konè M.;Roma
+5844;C;"C;T";Thorstvedt;Sassuolo
+5888;C;"C;T";Casadei;Torino
+530;C;"C;T";Pellegrini Lo.;Roma
+2077;C;"C;T";Pasalic;Atalanta
+184;C;"W;T";Bernardeschi;Bologna
+1933;C;C;Mandragora;Fiorentina
+6274;C;"E;C";Diouf;Inter
+2848;C;"C;T";Frattesi;Lazio
+5500;C;"W;A";Cancellieri;Lazio
+6398;C;"W;A";Isaksen;Lazio
+6717;C;C;Konè I.;Sassuolo
+4364;C;"M;C";Gaetano;Atalanta
+2765;C;T;Odgaard;Bologna
+4436;C;"W;A";Cambiaghi;Bologna
+4465;C;"M;C";Fagioli;Fiorentina
+6294;C;C;Ndour;Fiorentina
+7070;C;C;Sucic P.;Inter
+827;C;"M;C";Locatelli;Juventus
+5878;C;T;Colpani;Monza
+4287;C;"M;C";Lobotka;Napoli
+779;C;"M;C";Cristante;Roma
+5735;C;"W;T";Volpato;Sassuolo
+7551;C;"W;T";Schmid;Frosinone
+5858;C;"M;C";Ferguson;Bologna
+4870;C;"M;C";Adopo;Cagliari
+7311;C;"M;C";Romano;Cagliari
+6010;C;"C;T";Fazzini;Cagliari
+7472;C;"M;C";Calò;Frosinone
+5791;C;"M;C";Frendrup;Genoa
+4459;C;"M;C";Rovella;Lazio
+5504;C;"M;C";Coulibaly L.;Lecce
+4856;C;W;Chukwueze;Milan
+2741;C;"M;C";Pessina;Monza
+6666;C;C;Bernabè;Parma
+6190;C;C;Pisilli;Roma
+6218;C;"W;T";Oristanio;Torino
+6680;C;"M;C";Karlstrom;Udinese
+6783;C;T;Unai Gomez;Udinese
+5946;C;"M;C";Sow;Genoa
+4479;C;"W;T";Elmas;Atalanta
+5422;C;W;Zalewski;Atalanta
+5298;C;"M;C";Pobega;Bologna
+4260;C;"M;C";Winks;Cagliari
+7412;C;"M;C";Milla;Como
+5036;C;"C;T";Caqueret;Como
+6678;C;T;Liberali;Como
+7464;C;"M;C";Oulai;Fiorentina
+6020;C;"E;C";Ellertsson;Genoa
+5761;C;W;Zhegrova;Juventus
+6549;C;W;Pierotti;Lecce
+6593;C;C;Akinsanmiro;Monza
+4349;C;"M;C";Nicolussi Caviglia;Parma
+2528;C;"M;C";Matic;Sassuolo
+6170;C;"M;C";Gineitis;Torino
+5674;C;"M;C";Basic;Venezia
+7146;C;"E;M";Tourè I.;Monza
+7528;C;"M;C";Amondarain;Bologna
+6640;C;W;Felici;Cagliari
+7127;C;"W;A";Addai;Como
+5998;C;W;Zerbin;Frosinone
+7341;C;"M;C";Amorim;Genoa
+7409;C;"W;T";Meichtry;Genoa
+2857;C;"W;T";Traorè Hj.;Genoa
+2529;C;C;Mkhitaryan;Inter
+5685;C;"C;T";Koopmeiners;Juventus
+6629;C;"C;T";Dele-Bashiru;Lazio
+6015;C;"C;T";Berisha M.;Lecce
+7318;C;"C;T";Gandelman;Lecce
+4686;C;"M;C";Fofana Y.;Milan
+7203;C;C;Jashari;Milan
+6898;C;"M;C";Keita M.;Parma
+6677;C;"C;T";Adzic;Sassuolo
+7036;C;"C;T";Bakola;Sassuolo
+7060;C;"E;W";Cacciamani;Torino
+6827;C;"W;A";Njie;Torino
+7198;C;"M;C";Piotrowski;Udinese
+5507;C;"M;C";Busio;Venezia
+5319;C;C;Sohm;Venezia
+6994;C;"C;T";Perez K.;Venezia
+7550;C;"M;C";Grillitsch;Frosinone
+6618;C;"W;T";Cissè A.;Milan
+22;C;"M;C";De Roon;Atalanta
+6054;C;"M;C";Moro N.;Bologna
+6895;C;"W;A";Dominguez B.;Sassuolo
+1871;C;"M;C";Deiola;Cagliari
+6206;C;"C;T";Fabbian;Parma
+7473;C;"M;C";Cichella;Frosinone
+7474;C;C;Koutsoupias;Frosinone
+6506;C;W;Fini;Frosinone
+4970;C;"W;T";Messias;Genoa
+5301;C;"E;W";Luis Henrique;Inter
+4911;C;C;Douglas Luiz;Juventus
+333;C;"M;C";Cataldi;Lazio
+7322;C;"M;C";Ngom;Lecce
+5453;C;"M;C";Ricci S.;Como
+4199;C;"C;T";Loftus-Cheek;Milan
+6252;C;"C;T";Folorunsho;Monza
+6207;C;"W;A";Almqvist;Parma
+7536;C;"W;A";Diallo O.;Parma
+6271;C;"M;C";El Aynaoui;Roma
+7535;C;"M;C";Fitz-Jim;Torino
+6005;C;"M;C";Ilkhan;Torino
+7208;C;"M;C";Miller L.;Udinese
+6024;C;"M;C";Sulemana I.;Atalanta
+4947;C;"C;T";Brescianini;Fiorentina
+6241;C;"C;T";Gelli F.;Frosinone
+6903;C;"C;T";Hasa;Frosinone
+6917;C;"M;C";Masini;Frosinone
+6503;C;"M;C";Stankovic A.;Inter
+7248;C;"M;C";Gorter;Lecce
+5457;C;"M;C";Maleh;Lecce
+5295;C;"C;W";Musah;Milan
+7477;C;"M;C";Colombo L.;Monza
+5131;C;"M;C";Gilmour;Napoli
+7138;C;"M;C";Ordonez C.;Parma
+7209;C;C;Sorensen O.;Parma
+7183;C;"W;A";Aboukhlal;Torino
+5872;C;"C;T";Helgason;Venezia
+6225;C;"M;C";El Azzouzi O.;Bologna
+6815;C;W;Fadera;Cagliari
+6980;C;W;Venturino;Genoa
+5880;C;"E;W";Ciurria;Monza
+6219;C;"M;C";Boloca;Sassuolo
+6246;C;"M;C";Lipani;Sassuolo
+7418;C;"W;T";Chakvetadze;Udinese
+526;C;C;Duncan;Venezia
+6592;C;"W;T";Forson O.;Monza
+7165;C;"M;C";Liteta;Cagliari
+7357;C;"C;T";Lahdo;Como
+7456;C;"M;C";El Azzouzi A.;Frosinone
+5725;C;C;Kone B.;Frosinone
+6191;C;"M;C";Belahyane;Lazio
+7345;C;"W;T";Przyborek;Lazio
+6410;C;"M;C";Kaba;Lecce
+7319;C;"M;C";Fofana Sa.;Lecce
+7276;C;"E;C";Cremaschi;Parma
+7157;C;"M;C";Iannoni;Sassuolo
+5007;C;C;Ilic;Lecce
+6889;C;"C;T";Anjorin;Torino
+6212;C;"M;C";Zarraga;Udinese
+7481;C;C;Dagasso;Venezia
+7571;C;"W;A";Laerke;Lecce
+7572;C;"M;C";Comotto;Milan
+7574;C;C;Foe Ondoa;Monza
+7575;C;C;Mout;Monza
+5462;C;W;Ciervo;Cagliari
+5585;A;Pc;Malen;Roma
+2764;A;Pc;Martinez L.;Inter
+4871;A;Pc;Thuram;Inter
+6397;A;Pc;Ramos G.;Milan
+6052;A;Pc;Hojlund;Napoli
+2097;A;Pc;Kean;Fiorentina
+5951;A;Pc;Kolo Muani;Juventus
+6434;A;A;Yildiz;Juventus
+7017;A;Pc;Douvikas;Como
+6435;A;Pc;Krstovic;Atalanta
+2137;A;Pc;Scamacca;Atalanta
+5637;A;Pc;Davis K.;Udinese
+4510;A;A;Leao;Milan
+531;A;A;Berardi;Sassuolo
+5995;A;A;De Ketelaere;Atalanta
+7071;A;Pc;Esposito F.P.;Inter
+6675;A;Pc;Dovbyk;Bologna
+309;A;A;Dybala;Roma
+6060;A;A;Laurientè;Sassuolo
+2061;A;Pc;Simeone;Torino
+4371;A;A;Raspadori;Atalanta
+7351;A;"W;A";Santos A.;Napoli
+7023;A;Pc;Pellegrino M.;Fiorentina
+6572;A;Pc;Castro S.;Roma
+4463;A;A;Esposito Se.;Sassuolo
+2038;A;Pc;Pinamonti;Lazio
+7547;A;Pc;Kevin Carlos;Cagliari
+5734;A;A;Soulè;Roma
+7484;A;Pc;Adams A.;Venezia
+6967;A;"W;A";Diao;Como
+4923;A;Pc;Colombo;Genoa
+6229;A;Pc;Tourè E.;Parma
+5672;A;A;Dia;Lazio
+7313;A;Pc;Ratkov;Lazio
+7347;A;Pc;Bowie;Sassuolo
+6646;A;A;Adams C.;Torino
+7554;A;Pc;Romero D.;Parma
+6530;A;"W;A";Ghedjemis;Frosinone
+5544;A;Pc;David;Juventus
+5029;A;Pc;Geubbels;Lecce
+2155;A;Pc;Cutrone;Monza
+7612;A;Pc;Bobcek;Frosinone
+4359;A;Pc;Piccoli;Bologna
+6164;A;A;Vitinha O.;Genoa
+6904;A;A;Yeboah J.;Venezia
+7449;A;Pc;Rrahmani Al.;Venezia
+7600;A;Pc;Osmajic;Genoa
+5436;A;Pc;Raimondo;Frosinone
+6669;A;Pc;Bonny;Inter
+7252;A;Pc;Stulic;Lecce
+608;A;Pc;Zapata D.;Torino
+5918;A;A;Sulemana K.;Atalanta
+6598;A;Pc;Mutandwa;Cagliari
+2832;A;"W;A";Boga;Juventus
+6556;A;A;Noslin;Lazio
+7008;A;Pc;Gimenez;Milan
+6831;A;"W;A";Neres;Napoli
+4896;A;"T;A";Maldini;Cagliari
+6519;A;Pc;Camarda;Milan
+5882;A;A;Mota;Monza
+7523;A;Pc;Varela G.;Monza
+7213;A;A;Frigan;Parma
+4387;A;Pc;Adorante;Venezia
+2012;A;Pc;Milik;Juventus
+7610;A;Pc;Birligea;Frosinone
+6145;A;A;Ngonge;Monza
+6243;A;Pc;Borrelli;Cagliari
+7374;A;Pc;Mendy P.;Cagliari
+6204;A;"W;A";Kvernadze;Frosinone
+7453;A;Pc;Havel;Genoa
+7162;A;A;Giovane;Napoli
+7120;A;A;Lang;Napoli
+6215;A;Pc;Lucca;Napoli
+7349;A;Pc;Kulenovic;Torino
+7272;A;Pc;Gueye;Udinese
+7546;A;A;Robinson J.;Monza
+7602;A;"W;A";Fatah;Lecce
+7128;A;"W;A";Kuhn;Como
+6822;A;A;Ekhator;Juventus
+7001;A;"W;A";N'Dri;Lecce
+7342;A;Pc;Elphege;Parma
+7561;A;A;Lontani;Parma
+7317;A;Pc;Trepy;Cagliari
+7027;A;Pc;Azon;Como
+6981;A;Pc;Vaz;Roma
+7161;A;Pc;Bayo V.;Udinese
+7408;A;"W;A";Lisman;Venezia
+7482;A;Pc;Lauberbach;Venezia
+7568;A;Pc;De Martis;Parma

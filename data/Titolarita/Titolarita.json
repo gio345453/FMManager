@@ -1,0 +1,2482 @@
+[
+    {
+        "squadra": "Genoa",
+        "totale_giocatori": 23,
+        "giocatori": [
+            {
+                "nome": "Bijlow",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Marcandalli",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Ostigard",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Vasquez",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Sabelli",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Frendrup",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Sow",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Baldanzi",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Ellertsson",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Colombo",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Osmajic",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Stolz",
+                "percentuale_titolarita": "5%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Sommariva",
+                "percentuale_titolarita": "1%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Otoa",
+                "percentuale_titolarita": "35%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Mitaj",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Puczka",
+                "percentuale_titolarita": "35%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Ehizibue",
+                "percentuale_titolarita": "25%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Amorim",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Messias",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Traorè Hj.",
+                "percentuale_titolarita": "35%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Meichtry",
+                "percentuale_titolarita": "55%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "El Shaarawy",
+                "percentuale_titolarita": "30%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Vitinha O.",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            }
+        ]
+    },
+    {
+        "squadra": "Como",
+        "totale_giocatori": 25,
+        "giocatori": [
+            {
+                "nome": "Butez",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Couto",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Chalobah T.",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Ramon",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Valle",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Da Cunha",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Perrone",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Diao",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Paz N.",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Baturina",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Douvikas",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Sanchez Ro.",
+                "percentuale_titolarita": "5%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Vigorito",
+                "percentuale_titolarita": "1%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Smolcic I.",
+                "percentuale_titolarita": "55%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Kaiki",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Kambwala",
+                "percentuale_titolarita": "25%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Kempf",
+                "percentuale_titolarita": "40%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Goldaniga",
+                "percentuale_titolarita": "20%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Milla",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Caqueret",
+                "percentuale_titolarita": "30%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Lahdo",
+                "percentuale_titolarita": "15%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Ricci S.",
+                "percentuale_titolarita": "35%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Liberali",
+                "percentuale_titolarita": "40%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Rodriguez Je.",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Kean",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            }
+        ]
+    },
+    {
+        "squadra": "Fiorentina",
+        "totale_giocatori": 22,
+        "giocatori": [
+            {
+                "nome": "De Gea",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Joao Mario",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Dragusin",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Viery",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Valdepenas",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Oulai",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Fagioli",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Brescianini",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Mastantuono",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Njie",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Pellegrino M.",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Christensen O.",
+                "percentuale_titolarita": "5%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Lezzerini",
+                "percentuale_titolarita": "1%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Dodò",
+                "percentuale_titolarita": "20%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Jimenez A.",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Ranieri L.",
+                "percentuale_titolarita": "40%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Pongracic",
+                "percentuale_titolarita": "30%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Atta",
+                "percentuale_titolarita": "25%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Ndour",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Goncalves P.",
+                "percentuale_titolarita": "55%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Gnonto",
+                "percentuale_titolarita": "55%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Beto",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            }
+        ]
+    },
+    {
+        "squadra": "Torino",
+        "totale_giocatori": 24,
+        "giocatori": [
+            {
+                "nome": "Perri",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Comuzzo",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Coco",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Comert",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Fortini",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Gineitis",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Mandragora",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Fitz-Jim",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Cacciamani",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Vlasic",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Adams C.",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Mascardi",
+                "percentuale_titolarita": "5%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Siviero",
+                "percentuale_titolarita": "1%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Ismajli",
+                "percentuale_titolarita": "40%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Belghali",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Patterson",
+                "percentuale_titolarita": "40%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Biraghi",
+                "percentuale_titolarita": "20%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Ilkhan",
+                "percentuale_titolarita": "40%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Aboukhlal",
+                "percentuale_titolarita": "30%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Braganca",
+                "percentuale_titolarita": "55%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Oristanio",
+                "percentuale_titolarita": "55%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Zapata D.",
+                "percentuale_titolarita": "55%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Simeone",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Kulenovic",
+                "percentuale_titolarita": "35%",
+                "status": "Panchina / Ballottaggio"
+            }
+        ]
+    },
+    {
+        "squadra": "Inter",
+        "totale_giocatori": 23,
+        "giocatori": [
+            {
+                "nome": "Martinez Jo.",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Bisseck",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Akanji",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Bastoni",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Diouf",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Barella",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Zielinski",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Sucic P.",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Dimarco",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Martinez L.",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Esposito F.P.",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Provedel",
+                "percentuale_titolarita": "5%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Di Gennaro",
+                "percentuale_titolarita": "1%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Pavard",
+                "percentuale_titolarita": "55%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Stones",
+                "percentuale_titolarita": "55%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Carlos Augusto",
+                "percentuale_titolarita": "40%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Calhanoglu",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Luis Henrique",
+                "percentuale_titolarita": "30%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Jones C.",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Stankovic A.",
+                "percentuale_titolarita": "25%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Mkhitaryan",
+                "percentuale_titolarita": "40%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Bonny",
+                "percentuale_titolarita": "40%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Thuram",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            }
+        ]
+    },
+    {
+        "squadra": "Napoli",
+        "totale_giocatori": 22,
+        "giocatori": [
+            {
+                "nome": "Meret",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Di Lorenzo",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Rrahmani",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Marin R.",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Spinazzola",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Zambo Anguissa",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Lobotka",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Vergara",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Politano",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Hojlund",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Santos A.",
+                "percentuale_titolarita": "100%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Milinkovic-Savic V.",
+                "percentuale_titolarita": "5%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Contini",
+                "percentuale_titolarita": "1%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Olivera",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Favasuli",
+                "percentuale_titolarita": "20%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Beukema",
+                "percentuale_titolarita": "35%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Badiashile",
+                "percentuale_titolarita": "30%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Gilmour",
+                "percentuale_titolarita": "35%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "De Bruyne",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Lang",
+                "percentuale_titolarita": "55%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Neres",
+                "percentuale_titolarita": "50%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Lucca",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            }
+        ]
+    },
+    {
+        "squadra": "Roma",
+        "totale_giocatori": 22,
+        "giocatori": [
+            {
+                "nome": "Svilar",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Mancini",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "N'Dicka",
+                "percentuale_titolarita": "75%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Hermoso",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Molina N.",
+                "percentuale_titolarita": "55%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Konè M.",
+                "percentuale_titolarita": "85%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Cristante",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Wesley",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Dybala",
+                "percentuale_titolarita": "55%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Mora",
+                "percentuale_titolarita": "75%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Malen",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Gollini",
+                "percentuale_titolarita": "5%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "De Marzi",
+                "percentuale_titolarita": "1%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Lulli",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Koulierakis",
+                "percentuale_titolarita": "30%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Rensch",
+                "percentuale_titolarita": "35%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Ghilardi",
+                "percentuale_titolarita": "40%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Balerdi",
+                "percentuale_titolarita": "25%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Pisilli",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "De Roon",
+                "percentuale_titolarita": "55%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Soulè",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Castro S.",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            }
+        ]
+    },
+    {
+        "squadra": "Atalanta",
+        "totale_giocatori": 22,
+        "giocatori": [
+            {
+                "nome": "Carnesecchi",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Bellanova",
+                "percentuale_titolarita": "55%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Kossounou",
+                "percentuale_titolarita": "80%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Scalvini",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Bernasconi",
+                "percentuale_titolarita": "85%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Samardzic",
+                "percentuale_titolarita": "55%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Gaetano",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Ederson D.S.",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "De Ketelaere",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Scamacca",
+                "percentuale_titolarita": "70%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Rowe",
+                "percentuale_titolarita": "55%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Sportiello",
+                "percentuale_titolarita": "5%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Pompei",
+                "percentuale_titolarita": "1%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Zappacosta",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Kristensen T.",
+                "percentuale_titolarita": "40%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Kolasinac",
+                "percentuale_titolarita": "35%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Pasalic",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Kessiè",
+                "percentuale_titolarita": "40%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Elmas",
+                "percentuale_titolarita": "55%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Zalewski",
+                "percentuale_titolarita": "40%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Raspadori",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Krstovic",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            }
+        ]
+    },
+    {
+        "squadra": "Frosinone",
+        "totale_giocatori": 26,
+        "giocatori": [
+            {
+                "nome": "Palmisani",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Oyono A.",
+                "percentuale_titolarita": "80%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Calvani",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Monterisi",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Bracaglia",
+                "percentuale_titolarita": "85%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Masini",
+                "percentuale_titolarita": "80%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Calò",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Fini",
+                "percentuale_titolarita": "80%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Schmid",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Kvernadze",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Raimondo",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Desplanches",
+                "percentuale_titolarita": "5%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Pisseri",
+                "percentuale_titolarita": "1%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Cittadini",
+                "percentuale_titolarita": "30%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Akpoguma",
+                "percentuale_titolarita": "30%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Tchato",
+                "percentuale_titolarita": "40%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Omar Fayed",
+                "percentuale_titolarita": "20%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Terzic",
+                "percentuale_titolarita": "40%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Cichella",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Grillitsch",
+                "percentuale_titolarita": "55%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Hasa",
+                "percentuale_titolarita": "20%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "El Azzouzi A.",
+                "percentuale_titolarita": "30%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Zerbin",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Ghedjemis",
+                "percentuale_titolarita": "30%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Birligea",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Bobcek",
+                "percentuale_titolarita": "55%",
+                "status": "Panchina / Ballottaggio"
+            }
+        ]
+    },
+    {
+        "squadra": "Venezia",
+        "totale_giocatori": 27,
+        "giocatori": [
+            {
+                "nome": "Stankovic F.",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Schingtienne",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Moreno M.",
+                "percentuale_titolarita": "55%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Halhal",
+                "percentuale_titolarita": "80%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Mazzocchi",
+                "percentuale_titolarita": "55%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Perez K.",
+                "percentuale_titolarita": "80%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Busio",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Basic",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Haps",
+                "percentuale_titolarita": "80%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Yeboah J.",
+                "percentuale_titolarita": "55%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Adams A.",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Montipò",
+                "percentuale_titolarita": "5%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Grandi",
+                "percentuale_titolarita": "1%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Pozzi",
+                "percentuale_titolarita": "1%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Bella-Kotchap",
+                "percentuale_titolarita": "50%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Gomes",
+                "percentuale_titolarita": "25%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Correia T.",
+                "percentuale_titolarita": "55%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Sagrado",
+                "percentuale_titolarita": "25%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Juan Jesus",
+                "percentuale_titolarita": "25%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Hainaut",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Sohm",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Dagasso",
+                "percentuale_titolarita": "25%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Helgason",
+                "percentuale_titolarita": "40%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Fernandez T.",
+                "percentuale_titolarita": "55%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Rrahmani Al.",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Lauberbach",
+                "percentuale_titolarita": "35%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Lisman",
+                "percentuale_titolarita": "15%",
+                "status": "Panchina / Ballottaggio"
+            }
+        ]
+    },
+    {
+        "squadra": "Parma",
+        "totale_giocatori": 26,
+        "giocatori": [
+            {
+                "nome": "Corvi",
+                "percentuale_titolarita": "55%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Delprato",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Troilo",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Diego Carlos",
+                "percentuale_titolarita": "80%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Britschgi",
+                "percentuale_titolarita": "55%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Fabbian",
+                "percentuale_titolarita": "75%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Keita M.",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Ordonez C.",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Valeri",
+                "percentuale_titolarita": "80%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Romero D.",
+                "percentuale_titolarita": "55%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Tourè E.",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Daffara",
+                "percentuale_titolarita": "45%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Ghidotti",
+                "percentuale_titolarita": "1%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Valenti",
+                "percentuale_titolarita": "50%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Ndiaye",
+                "percentuale_titolarita": "55%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Drobnic",
+                "percentuale_titolarita": "30%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Carboni F.",
+                "percentuale_titolarita": "25%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Cremaschi",
+                "percentuale_titolarita": "40%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Bernabè",
+                "percentuale_titolarita": "20%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Konate A.",
+                "percentuale_titolarita": "35%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Almqvist",
+                "percentuale_titolarita": "55%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Sierro",
+                "percentuale_titolarita": "25%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Lontani",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Elphege",
+                "percentuale_titolarita": "55%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "De Martis",
+                "percentuale_titolarita": "15%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Frigan",
+                "percentuale_titolarita": "40%",
+                "status": "Panchina / Ballottaggio"
+            }
+        ]
+    },
+    {
+        "squadra": "Monza",
+        "totale_giocatori": 26,
+        "giocatori": [
+            {
+                "nome": "Tornqvist",
+                "percentuale_titolarita": "75%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Ziolkowski",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Lucchesi",
+                "percentuale_titolarita": "85%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Carboni A.",
+                "percentuale_titolarita": "85%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Birindelli",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Akinsanmiro",
+                "percentuale_titolarita": "80%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Folorunsho",
+                "percentuale_titolarita": "85%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Mangas",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Colpani",
+                "percentuale_titolarita": "80%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Mota",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Cutrone",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Thiam",
+                "percentuale_titolarita": "5%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Strajnar",
+                "percentuale_titolarita": "1%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Antov",
+                "percentuale_titolarita": "20%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Kouadio",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Goglichidze",
+                "percentuale_titolarita": "40%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Bakoune",
+                "percentuale_titolarita": "30%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Maye",
+                "percentuale_titolarita": "35%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Mout",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Foe Ondoa",
+                "percentuale_titolarita": "50%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Forson O.",
+                "percentuale_titolarita": "40%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Tourè I.",
+                "percentuale_titolarita": "55%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Colombo L.",
+                "percentuale_titolarita": "25%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Ngonge",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Zeballos",
+                "percentuale_titolarita": "50%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Robinson J.",
+                "percentuale_titolarita": "25%",
+                "status": "Panchina / Ballottaggio"
+            }
+        ]
+    },
+    {
+        "squadra": "Bologna",
+        "totale_giocatori": 23,
+        "giocatori": [
+            {
+                "nome": "Skorupski",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Zortea",
+                "percentuale_titolarita": "55%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Heggem",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Theate",
+                "percentuale_titolarita": "80%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Miranda J.",
+                "percentuale_titolarita": "80%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Odgaard",
+                "percentuale_titolarita": "80%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Ferguson",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Pobega",
+                "percentuale_titolarita": "55%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Bernardeschi",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Piccoli",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Cambiaghi",
+                "percentuale_titolarita": "85%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Pessina Mas.",
+                "percentuale_titolarita": "5%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Happonen",
+                "percentuale_titolarita": "1%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Alhassane",
+                "percentuale_titolarita": "35%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Holm",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Helland",
+                "percentuale_titolarita": "40%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Vitik",
+                "percentuale_titolarita": "35%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "De Silvestri",
+                "percentuale_titolarita": "20%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Moro N.",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Amondarain",
+                "percentuale_titolarita": "55%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Mbangula",
+                "percentuale_titolarita": "55%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Dovbyk",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Enem",
+                "percentuale_titolarita": "15%",
+                "status": "Panchina / Ballottaggio"
+            }
+        ]
+    },
+    {
+        "squadra": "Sassuolo",
+        "totale_giocatori": 24,
+        "giocatori": [
+            {
+                "nome": "Muric",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Van Der Brempt",
+                "percentuale_titolarita": "80%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Idzes",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Leysen F.",
+                "percentuale_titolarita": "70%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Doig",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Thorstvedt",
+                "percentuale_titolarita": "80%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Matic",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Bakola",
+                "percentuale_titolarita": "75%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Berardi",
+                "percentuale_titolarita": "55%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Esposito Se.",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Laurientè",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Turati",
+                "percentuale_titolarita": "5%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Satalino",
+                "percentuale_titolarita": "1%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Obrador",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Caleta-Car",
+                "percentuale_titolarita": "35%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Odenthal",
+                "percentuale_titolarita": "25%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Cinquegrano",
+                "percentuale_titolarita": "30%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Adzic",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Lipani",
+                "percentuale_titolarita": "55%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Dominguez B.",
+                "percentuale_titolarita": "40%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Volpato",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Sulemana I.",
+                "percentuale_titolarita": "30%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Kulla",
+                "percentuale_titolarita": "10%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Bowie",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            }
+        ]
+    },
+    {
+        "squadra": "Juventus",
+        "totale_giocatori": 21,
+        "giocatori": [
+            {
+                "nome": "Vicario",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Kalulu",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Bremer",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Lucumì",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Celik",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Locatelli",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Douglas Luiz",
+                "percentuale_titolarita": "85%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Conceicao",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Gonzalez N.",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Boga",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Kolo Muani",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Grabara",
+                "percentuale_titolarita": "5%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Pinsoglio",
+                "percentuale_titolarita": "1%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Kelly L.",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Rugani",
+                "percentuale_titolarita": "25%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Gatti",
+                "percentuale_titolarita": "35%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Koopmeiners",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Alajbegovic",
+                "percentuale_titolarita": "55%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Zhegrova",
+                "percentuale_titolarita": "50%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Woltemade",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Milik",
+                "percentuale_titolarita": "30%",
+                "status": "Panchina / Ballottaggio"
+            }
+        ]
+    },
+    {
+        "squadra": "Milan",
+        "totale_giocatori": 24,
+        "giocatori": [
+            {
+                "nome": "Maignan",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Gila",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "De Winter",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Pavlovic",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Chukwueze",
+                "percentuale_titolarita": "85%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Modric",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Musah",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Bartesaghi",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Rabiot",
+                "percentuale_titolarita": "85%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Cissè A.",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Ramos G.",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Terracciano",
+                "percentuale_titolarita": "5%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Torriani",
+                "percentuale_titolarita": "1%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Tomori",
+                "percentuale_titolarita": "25%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Estupinan",
+                "percentuale_titolarita": "55%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Terracciano F.",
+                "percentuale_titolarita": "25%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Diawara S.",
+                "percentuale_titolarita": "20%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Jashari",
+                "percentuale_titolarita": "55%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Moreira",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Saelemaekers",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Hutchinson",
+                "percentuale_titolarita": "40%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Pulisic",
+                "percentuale_titolarita": "50%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Loftus-Cheek",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Camarda",
+                "percentuale_titolarita": "30%",
+                "status": "Panchina / Ballottaggio"
+            }
+        ]
+    },
+    {
+        "squadra": "Cagliari",
+        "totale_giocatori": 25,
+        "giocatori": [
+            {
+                "nome": "Caprile",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Zè Pedro",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Deiola",
+                "percentuale_titolarita": "80%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Rodriguez Ju.",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Obert",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Adopo",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Winks",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Romano",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Fazzini",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Maldini",
+                "percentuale_titolarita": "80%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Kevin Carlos",
+                "percentuale_titolarita": "55%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Radunovic",
+                "percentuale_titolarita": "5%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Sherri",
+                "percentuale_titolarita": "1%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Aurelio",
+                "percentuale_titolarita": "25%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Mina",
+                "percentuale_titolarita": "50%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Kofler",
+                "percentuale_titolarita": "35%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Sugawara",
+                "percentuale_titolarita": "25%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Liteta",
+                "percentuale_titolarita": "20%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Ciervo",
+                "percentuale_titolarita": "50%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Felici",
+                "percentuale_titolarita": "20%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Gagliardini",
+                "percentuale_titolarita": "55%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Fadera",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Massolin",
+                "percentuale_titolarita": "35%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Nzola",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Mendy P.",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            }
+        ]
+    },
+    {
+        "squadra": "Lecce",
+        "totale_giocatori": 24,
+        "giocatori": [
+            {
+                "nome": "Falcone",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Veiga D.",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Gaspar K.",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Tiago Gabriel",
+                "percentuale_titolarita": "80%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Gallo",
+                "percentuale_titolarita": "80%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Coulibaly L.",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Ilic",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Gorter",
+                "percentuale_titolarita": "55%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Pierotti",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Stulic",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Monteiro J.",
+                "percentuale_titolarita": "55%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Penev",
+                "percentuale_titolarita": "5%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Bleve",
+                "percentuale_titolarita": "1%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Ndaba",
+                "percentuale_titolarita": "40%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Dembelè A.",
+                "percentuale_titolarita": "35%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Siebert",
+                "percentuale_titolarita": "50%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Maleh",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Laerke",
+                "percentuale_titolarita": "20%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Gandelman",
+                "percentuale_titolarita": "35%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Fofana Sa.",
+                "percentuale_titolarita": "30%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Ngom",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Berisha M.",
+                "percentuale_titolarita": "40%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "N'Dri",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Fatah",
+                "percentuale_titolarita": "55%",
+                "status": "Panchina / Ballottaggio"
+            }
+        ]
+    },
+    {
+        "squadra": "Udinese",
+        "totale_giocatori": 22,
+        "giocatori": [
+            {
+                "nome": "Okoye",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Abankwah",
+                "percentuale_titolarita": "80%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Kabasele",
+                "percentuale_titolarita": "80%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Solet",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Vojvoda",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Piotrowski",
+                "percentuale_titolarita": "85%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Karlstrom",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Kamara H.",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Ekkelenkamp",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Unai Gomez",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Davis K.",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Mrozek",
+                "percentuale_titolarita": "5%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Piana",
+                "percentuale_titolarita": "1%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Padelli",
+                "percentuale_titolarita": "1%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Ebosse",
+                "percentuale_titolarita": "35%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Bertola",
+                "percentuale_titolarita": "55%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Arizala",
+                "percentuale_titolarita": "55%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Miller L.",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Jovanovic",
+                "percentuale_titolarita": "35%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Zarraga",
+                "percentuale_titolarita": "50%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Gueye",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Bayo V.",
+                "percentuale_titolarita": "35%",
+                "status": "Panchina / Ballottaggio"
+            }
+        ]
+    },
+    {
+        "squadra": "Lazio",
+        "totale_giocatori": 21,
+        "giocatori": [
+            {
+                "nome": "Mandas",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Floriani Mussolini",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Doekhi",
+                "percentuale_titolarita": "80%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Provstgaard",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Tavares N.",
+                "percentuale_titolarita": "85%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Frattesi",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Belahyane",
+                "percentuale_titolarita": "85%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Taylor K.",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Gudmundsson A.",
+                "percentuale_titolarita": "55%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Pinamonti",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Zaccagni",
+                "percentuale_titolarita": "90%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Motta",
+                "percentuale_titolarita": "5%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Renzetti",
+                "percentuale_titolarita": "1%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Pedraza",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Sutalo J.",
+                "percentuale_titolarita": "50%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Lazzari",
+                "percentuale_titolarita": "40%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Pellegrini Lu.",
+                "percentuale_titolarita": "20%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Cancellieri",
+                "percentuale_titolarita": "55%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Przyborek",
+                "percentuale_titolarita": "25%",
+                "status": "Panchina / Ballottaggio"
+            },
+            {
+                "nome": "Isaksen",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            },
+            {
+                "nome": "Noslin",
+                "percentuale_titolarita": "60%",
+                "status": "Titolare"
+            }
+        ]
+    }
+]
